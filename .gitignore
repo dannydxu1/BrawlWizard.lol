@@ -29,7 +29,7 @@ backend/*.log
 cronjobs_and_ml/.env
 cronjobs_and_ml/*.csv
 cronjobs_and_ml/*.json
-cronjobs_and_ml/*.csv
+cronjobs_and_ml/data_processing/*.csv
 cronjobs_and_ml/raw_data/*.csv
 cronjobs_and_ml/*.pkl
 cronjobs_and_ml/venv/
