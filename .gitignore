@@ -1,0 +1,47 @@
+# Global ignores
+*.pyc
+*.pyc
+__pycache__/
+.DS_Store
+
+# Python virtual environments
+venv/
+myenv/
+
+
+asset_scraping/scraping_env
+asset_scraping/default_skins
+asset_scraping/portraits
+
+# Ignore files in frontend
+frontend/node_modules/
+frontend/.svelte-kit/
+frontend/build/
+frontend/public/build/
+
+# Ignore files in backend
+backend/.env
+backend/myenv/
+backend/instance/
+backend/*.log
+
+# Ignore files in cronjobs_and_ml
+cronjobs_and_ml/.env
+cronjobs_and_ml/*.csv
+cronjobs_and_ml/*.json
+cronjobs_and_ml/*.csv
+cronjobs_and_ml/raw_data/*.csv
+cronjobs_and_ml/*.pkl
+cronjobs_and_ml/venv/
+cronjobs_and_ml/__pycache__/
+cronjobs_and_ml/*.log
+
+# Node.js specific
+npm-debug.log*
+yarn-error.log*
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*~
