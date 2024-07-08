@@ -300,4 +300,4 @@ async def main(initial_player_tag, battle_quantity):
 
 
 # Run the main function
-asyncio.run(main("#PLYYP2RRQ", 3000000))
+asyncio.run(main("#PLYYP2RRQ", 10))
