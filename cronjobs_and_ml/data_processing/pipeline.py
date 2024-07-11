@@ -18,7 +18,7 @@ def run_subprocess(script, *args):
     return result
 
 
-def main(num_battles=10000, player_tag="#PLYYP2RRQ"):
+def main(num_battles=1000, player_tag="#PLYYP2RRQ"):
     fetch_data_script = "data_fetching/get_battle_logs.py"
     result = run_subprocess(fetch_data_script, player_tag, str(num_battles))
 
