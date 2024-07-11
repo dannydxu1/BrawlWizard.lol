@@ -8,17 +8,14 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score, classification_report
 import joblib
 
-
 # Load the data
-data = pd.read_csv('raw_data/battle_logs_1M_07-06-2024_01:34_pm.csv')
-
-# Sample the data
-sample_size = 700000  # Adjusted sample size to 100,000 rows
-sample_data = data.sample(n=sample_size, random_state=42)
+data = pd.read_csv('raw_data/battle_logs_07-10-2024_10:05_am_5M.csv')
 
 # Preprocess the data
-categorical_features = ['battle_mode', 'map_name', 'teammate1', 'teammate2', 'teammate3', 'opponent1', 'opponent2', 'opponent3']
-target = 'brawler_id'
+categorical_features = ['battle_mode', 'map_name', 'winner_1', 'winner_2', 'winner_3', 'loser_1', 'loser_2', 'loser_3']
+
+# Define the target (assuming 'winner_1' for the purpose of this example)
+target = 'winner_1'  # Adjust this to your actual target column
 
 preprocessor = ColumnTransformer(
     transformers=[
@@ -27,8 +24,8 @@ preprocessor = ColumnTransformer(
 )
 
 # Separate features and target
-X = sample_data[categorical_features]
-y = sample_data[target]
+X = data[categorical_features]
+y = data[target]
 
 # Split the data into training and test sets
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
@@ -45,7 +42,7 @@ pipeline.fit(X_train, y_train)
 end_time = time.time()
 
 training_time = end_time - start_time
-print(f'Training time for {sample_size} rows: {training_time:.2f} seconds')
+print(f'Training time for {len(data)} rows: {training_time:.2f} seconds')
 
 # Predict on the test set
 y_pred = pipeline.predict(X_test)
