@@ -86,35 +86,61 @@ def create_battle_hash(battle_time, player_tags):
 def valid_battle(battle, event, only_ranked):
     if not battle or not event.get("map") or not event.get("mode"):
         return False
-    
-    valid_maps = {
+
+    bounty_maps = [
+        "Shooting Star",
         "Canal Grande",
         "Hideout",
-        "Shooting Star",
-        "Belle's Rock",
-        "Flaring Phoenix",
-        "Out in the Open",
-        "Center Stage",
-        "Galaxy Arena",
-        "Penalty Kick",
-        "Pinball Dreams",
-        "Retina",
-        "Dueling Beetles",
-        "Parallel Plays",
-        "Hot Potato",
+    ]
+
+    heist_maps = [
         "Kaboom Canyon",
-        "Bridge Too Far",
-        "Pit Stop",
+        "Hot Potato",
         "Safe Zone",
-        "Split",
-        "Double Swoosh",
+    ]
+
+    hotzone_maps = [
+        "Dueling Beetles",
+        "Open Business",
+        "Parallel Plays",
+    ]
+
+    brawlball_maps = [
+        "Center Stage",
+        "Pinball Dreams",
+        "Penalty Kick",
+    ]
+
+    gemgrab_maps = [
         "Hard Rock Mine",
+        "Double Swoosh",
         "Undermine",
-    }
-    if battle.get("mode") not in ["gemGrab", "knockout", "heist", "hotZone", "bounty", "brawlBall"] or event.get("map") not in valid_maps or "5V5" in event.get("mode"):  
+    ]
+    knockout_maps = [
+        "Belle's Rock",
+        "Out in the Open",
+        "Flaring Phoenix",
+    ]
+    valid_maps = list(
+        set(
+            bounty_maps
+            + heist_maps
+            + hotzone_maps
+            + brawlball_maps
+            + gemgrab_maps
+            + knockout_maps
+        )
+    )
+
+    if (
+        battle.get("mode")
+        not in ["gemGrab", "knockout", "heist", "hotZone", "bounty", "brawlBall"]
+        or event.get("map") not in valid_maps
+        or "5V5" in event.get("mode")
+    ):
         return False
 
-    if only_ranked and battle and battle.get('type') != "soloRanked":
+    if only_ranked and battle and battle.get("type") != "soloRanked":
         return False
 
     return True
@@ -218,14 +244,19 @@ async def fetch_battle_log(
 count = 0
 failures = 0
 
+
 def format_number(value):
     if value >= 1_000_000:
-        return f"{value / 1_000_000:.1f}M" if value % 1_000_000 != 0 else f"{value // 1_000_000}M"
+        return (
+            f"{value / 1_000_000:.1f}M"
+            if value % 1_000_000 != 0
+            else f"{value // 1_000_000}M"
+        )
     elif value >= 1_000:
         return f"{value / 1_000:.1f}K" if value % 1_000 != 0 else f"{value // 1_000}K"
     else:
         return str(value)
-    
+
 
 async def main(initial_player_tag, battle_quantity):
     battle_tracker = BattleLogTracker()
