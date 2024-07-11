@@ -1,0 +1,6638 @@
+{
+    "Canal Grande": [
+        {
+            "brawler": "LOLA",
+            "winrate": 100.0,
+            "ranking": 1
+        },
+        {
+            "brawler": "GRAY",
+            "winrate": 100.0,
+            "ranking": 2
+        },
+        {
+            "brawler": "WILLOW",
+            "winrate": 81.81818181818183,
+            "ranking": 3
+        },
+        {
+            "brawler": "MR. P",
+            "winrate": 77.77777777777779,
+            "ranking": 4
+        },
+        {
+            "brawler": "R-T",
+            "winrate": 73.33333333333333,
+            "ranking": 5
+        },
+        {
+            "brawler": "CARL",
+            "winrate": 71.42857142857143,
+            "ranking": 6
+        },
+        {
+            "brawler": "8-BIT",
+            "winrate": 66.66666666666666,
+            "ranking": 7
+        },
+        {
+            "brawler": "ASH",
+            "winrate": 66.66666666666666,
+            "ranking": 8
+        },
+        {
+            "brawler": "BONNIE",
+            "winrate": 66.66666666666666,
+            "ranking": 9
+        },
+        {
+            "brawler": "JACKY",
+            "winrate": 63.63636363636363,
+            "ranking": 10
+        },
+        {
+            "brawler": "ROSA",
+            "winrate": 63.33333333333333,
+            "ranking": 11
+        },
+        {
+            "brawler": "BYRON",
+            "winrate": 63.1578947368421,
+            "ranking": 12
+        },
+        {
+            "brawler": "LOU",
+            "winrate": 62.5,
+            "ranking": 13
+        },
+        {
+            "brawler": "EVE",
+            "winrate": 61.224489795918366,
+            "ranking": 14
+        },
+        {
+            "brawler": "LARRY & LAWRIE",
+            "winrate": 60.71428571428571,
+            "ranking": 15
+        },
+        {
+            "brawler": "BEA",
+            "winrate": 60.0,
+            "ranking": 16
+        },
+        {
+            "brawler": "ANGELO",
+            "winrate": 59.77011494252874,
+            "ranking": 17
+        },
+        {
+            "brawler": "SURGE",
+            "winrate": 58.87096774193549,
+            "ranking": 18
+        },
+        {
+            "brawler": "GRIFF",
+            "winrate": 58.06451612903226,
+            "ranking": 19
+        },
+        {
+            "brawler": "GENE",
+            "winrate": 57.89473684210527,
+            "ranking": 20
+        },
+        {
+            "brawler": "HANK",
+            "winrate": 57.14285714285714,
+            "ranking": 21
+        },
+        {
+            "brawler": "PEARL",
+            "winrate": 57.14285714285714,
+            "ranking": 22
+        },
+        {
+            "brawler": "FANG",
+            "winrate": 56.25,
+            "ranking": 23
+        },
+        {
+            "brawler": "JESSIE",
+            "winrate": 55.81395348837209,
+            "ranking": 24
+        },
+        {
+            "brawler": "BELLE",
+            "winrate": 55.55555555555556,
+            "ranking": 25
+        },
+        {
+            "brawler": "MICO",
+            "winrate": 55.319148936170215,
+            "ranking": 26
+        },
+        {
+            "brawler": "MORTIS",
+            "winrate": 54.54545454545454,
+            "ranking": 27
+        },
+        {
+            "brawler": "LILY",
+            "winrate": 53.94736842105263,
+            "ranking": 28
+        },
+        {
+            "brawler": "LEON",
+            "winrate": 53.48837209302325,
+            "ranking": 29
+        },
+        {
+            "brawler": "EDGAR",
+            "winrate": 53.284671532846716,
+            "ranking": 30
+        },
+        {
+            "brawler": "BROCK",
+            "winrate": 52.88461538461539,
+            "ranking": 31
+        },
+        {
+            "brawler": "DOUG",
+            "winrate": 52.17391304347826,
+            "ranking": 32
+        },
+        {
+            "brawler": "FRANK",
+            "winrate": 51.21951219512195,
+            "ranking": 33
+        },
+        {
+            "brawler": "TICK",
+            "winrate": 51.06382978723404,
+            "ranking": 34
+        },
+        {
+            "brawler": "EMZ",
+            "winrate": 50.98039215686274,
+            "ranking": 35
+        },
+        {
+            "brawler": "BERRY",
+            "winrate": 50.98039215686274,
+            "ranking": 36
+        },
+        {
+            "brawler": "CHESTER",
+            "winrate": 50.76923076923077,
+            "ranking": 37
+        },
+        {
+            "brawler": "CORDELIUS",
+            "winrate": 50.0,
+            "ranking": 38
+        },
+        {
+            "brawler": "BARLEY",
+            "winrate": 50.0,
+            "ranking": 39
+        },
+        {
+            "brawler": "POCO",
+            "winrate": 50.0,
+            "ranking": 40
+        },
+        {
+            "brawler": "MEG",
+            "winrate": 50.0,
+            "ranking": 41
+        },
+        {
+            "brawler": "SPIKE",
+            "winrate": 48.9010989010989,
+            "ranking": 42
+        },
+        {
+            "brawler": "KIT",
+            "winrate": 48.717948717948715,
+            "ranking": 43
+        },
+        {
+            "brawler": "GALE",
+            "winrate": 47.82608695652174,
+            "ranking": 44
+        },
+        {
+            "brawler": "EL PRIMO",
+            "winrate": 47.69230769230769,
+            "ranking": 45
+        },
+        {
+            "brawler": "NITA",
+            "winrate": 47.674418604651166,
+            "ranking": 46
+        },
+        {
+            "brawler": "GROM",
+            "winrate": 47.5,
+            "ranking": 47
+        },
+        {
+            "brawler": "BULL",
+            "winrate": 47.368421052631575,
+            "ranking": 48
+        },
+        {
+            "brawler": "TARA",
+            "winrate": 46.875,
+            "ranking": 49
+        },
+        {
+            "brawler": "COLT",
+            "winrate": 46.2962962962963,
+            "ranking": 50
+        },
+        {
+            "brawler": "CROW",
+            "winrate": 46.26865671641791,
+            "ranking": 51
+        },
+        {
+            "brawler": "SANDY",
+            "winrate": 45.588235294117645,
+            "ranking": 52
+        },
+        {
+            "brawler": "RICO",
+            "winrate": 44.3609022556391,
+            "ranking": 53
+        },
+        {
+            "brawler": "BO",
+            "winrate": 44.18604651162791,
+            "ranking": 54
+        },
+        {
+            "brawler": "DRACO",
+            "winrate": 44.11764705882353,
+            "ranking": 55
+        },
+        {
+            "brawler": "BIBI",
+            "winrate": 44.06779661016949,
+            "ranking": 56
+        },
+        {
+            "brawler": "DYNAMIKE",
+            "winrate": 43.75,
+            "ranking": 57
+        },
+        {
+            "brawler": "BUZZ",
+            "winrate": 42.22222222222222,
+            "ranking": 58
+        },
+        {
+            "brawler": "SHELLY",
+            "winrate": 40.816326530612244,
+            "ranking": 59
+        },
+        {
+            "brawler": "SQUEAK",
+            "winrate": 40.0,
+            "ranking": 60
+        },
+        {
+            "brawler": "COLETTE",
+            "winrate": 39.39393939393939,
+            "ranking": 61
+        },
+        {
+            "brawler": "AMBER",
+            "winrate": 37.5,
+            "ranking": 62
+        },
+        {
+            "brawler": "MAX",
+            "winrate": 36.36363636363637,
+            "ranking": 63
+        },
+        {
+            "brawler": "PENNY",
+            "winrate": 35.714285714285715,
+            "ranking": 64
+        },
+        {
+            "brawler": "MAISIE",
+            "winrate": 33.33333333333333,
+            "ranking": 65
+        },
+        {
+            "brawler": "GUS",
+            "winrate": 33.33333333333333,
+            "ranking": 66
+        },
+        {
+            "brawler": "MANDY",
+            "winrate": 33.33333333333333,
+            "ranking": 67
+        },
+        {
+            "brawler": "DARRYL",
+            "winrate": 30.76923076923077,
+            "ranking": 68
+        },
+        {
+            "brawler": "PIPER",
+            "winrate": 30.76923076923077,
+            "ranking": 69
+        },
+        {
+            "brawler": "SPROUT",
+            "winrate": 30.0,
+            "ranking": 70
+        },
+        {
+            "brawler": "BUSTER",
+            "winrate": 28.57142857142857,
+            "ranking": 71
+        },
+        {
+            "brawler": "NANI",
+            "winrate": 26.31578947368421,
+            "ranking": 72
+        },
+        {
+            "brawler": "STU",
+            "winrate": 25.0,
+            "ranking": 73
+        },
+        {
+            "brawler": "MELODIE",
+            "winrate": 14.285714285714285,
+            "ranking": 74
+        },
+        {
+            "brawler": "PAM",
+            "winrate": 0.0,
+            "ranking": 75
+        },
+        {
+            "brawler": "OTIS",
+            "winrate": 0.0,
+            "ranking": 76
+        },
+        {
+            "brawler": "SAM",
+            "winrate": 0.0,
+            "ranking": 77
+        }
+    ],
+    "Center Stage": [
+        {
+            "brawler": "SPROUT",
+            "winrate": 100.0,
+            "ranking": 1
+        },
+        {
+            "brawler": "WILLOW",
+            "winrate": 100.0,
+            "ranking": 2
+        },
+        {
+            "brawler": "BYRON",
+            "winrate": 100.0,
+            "ranking": 3
+        },
+        {
+            "brawler": "BONNIE",
+            "winrate": 100.0,
+            "ranking": 4
+        },
+        {
+            "brawler": "LARRY & LAWRIE",
+            "winrate": 80.0,
+            "ranking": 5
+        },
+        {
+            "brawler": "BUSTER",
+            "winrate": 77.77777777777779,
+            "ranking": 6
+        },
+        {
+            "brawler": "TARA",
+            "winrate": 73.33333333333333,
+            "ranking": 7
+        },
+        {
+            "brawler": "STU",
+            "winrate": 73.33333333333333,
+            "ranking": 8
+        },
+        {
+            "brawler": "JACKY",
+            "winrate": 68.18181818181817,
+            "ranking": 9
+        },
+        {
+            "brawler": "ASH",
+            "winrate": 66.66666666666666,
+            "ranking": 10
+        },
+        {
+            "brawler": "CARL",
+            "winrate": 61.53846153846154,
+            "ranking": 11
+        },
+        {
+            "brawler": "CHARLIE",
+            "winrate": 60.0,
+            "ranking": 12
+        },
+        {
+            "brawler": "MORTIS",
+            "winrate": 59.523809523809526,
+            "ranking": 13
+        },
+        {
+            "brawler": "FRANK",
+            "winrate": 59.45945945945946,
+            "ranking": 14
+        },
+        {
+            "brawler": "ROSA",
+            "winrate": 58.97435897435898,
+            "ranking": 15
+        },
+        {
+            "brawler": "BO",
+            "winrate": 58.97435897435898,
+            "ranking": 16
+        },
+        {
+            "brawler": "CORDELIUS",
+            "winrate": 57.333333333333336,
+            "ranking": 17
+        },
+        {
+            "brawler": "BERRY",
+            "winrate": 57.14285714285714,
+            "ranking": 18
+        },
+        {
+            "brawler": "GRIFF",
+            "winrate": 57.14285714285714,
+            "ranking": 19
+        },
+        {
+            "brawler": "DARRYL",
+            "winrate": 57.14285714285714,
+            "ranking": 20
+        },
+        {
+            "brawler": "BIBI",
+            "winrate": 54.83870967741935,
+            "ranking": 21
+        },
+        {
+            "brawler": "JESSIE",
+            "winrate": 54.71698113207547,
+            "ranking": 22
+        },
+        {
+            "brawler": "NITA",
+            "winrate": 54.6875,
+            "ranking": 23
+        },
+        {
+            "brawler": "CROW",
+            "winrate": 54.166666666666664,
+            "ranking": 24
+        },
+        {
+            "brawler": "BUZZ",
+            "winrate": 53.57142857142857,
+            "ranking": 25
+        },
+        {
+            "brawler": "SHELLY",
+            "winrate": 52.63157894736842,
+            "ranking": 26
+        },
+        {
+            "brawler": "EL PRIMO",
+            "winrate": 52.53164556962025,
+            "ranking": 27
+        },
+        {
+            "brawler": "MELODIE",
+            "winrate": 51.61290322580645,
+            "ranking": 28
+        },
+        {
+            "brawler": "SPIKE",
+            "winrate": 51.2,
+            "ranking": 29
+        },
+        {
+            "brawler": "BROCK",
+            "winrate": 50.90909090909091,
+            "ranking": 30
+        },
+        {
+            "brawler": "RICO",
+            "winrate": 50.0,
+            "ranking": 31
+        },
+        {
+            "brawler": "PEARL",
+            "winrate": 50.0,
+            "ranking": 32
+        },
+        {
+            "brawler": "SANDY",
+            "winrate": 50.0,
+            "ranking": 33
+        },
+        {
+            "brawler": "GALE",
+            "winrate": 50.0,
+            "ranking": 34
+        },
+        {
+            "brawler": "SAM",
+            "winrate": 50.0,
+            "ranking": 35
+        },
+        {
+            "brawler": "BEA",
+            "winrate": 50.0,
+            "ranking": 36
+        },
+        {
+            "brawler": "BELLE",
+            "winrate": 50.0,
+            "ranking": 37
+        },
+        {
+            "brawler": "FANG",
+            "winrate": 49.494949494949495,
+            "ranking": 38
+        },
+        {
+            "brawler": "BULL",
+            "winrate": 49.333333333333336,
+            "ranking": 39
+        },
+        {
+            "brawler": "SURGE",
+            "winrate": 48.97959183673469,
+            "ranking": 40
+        },
+        {
+            "brawler": "DRACO",
+            "winrate": 48.38709677419355,
+            "ranking": 41
+        },
+        {
+            "brawler": "DOUG",
+            "winrate": 47.368421052631575,
+            "ranking": 42
+        },
+        {
+            "brawler": "MEG",
+            "winrate": 47.22222222222222,
+            "ranking": 43
+        },
+        {
+            "brawler": "POCO",
+            "winrate": 47.05882352941176,
+            "ranking": 44
+        },
+        {
+            "brawler": "EMZ",
+            "winrate": 46.07843137254902,
+            "ranking": 45
+        },
+        {
+            "brawler": "COLETTE",
+            "winrate": 43.47826086956522,
+            "ranking": 46
+        },
+        {
+            "brawler": "EDGAR",
+            "winrate": 42.95774647887324,
+            "ranking": 47
+        },
+        {
+            "brawler": "GRAY",
+            "winrate": 40.0,
+            "ranking": 48
+        },
+        {
+            "brawler": "LEON",
+            "winrate": 39.130434782608695,
+            "ranking": 49
+        },
+        {
+            "brawler": "CHESTER",
+            "winrate": 39.130434782608695,
+            "ranking": 50
+        },
+        {
+            "brawler": "COLT",
+            "winrate": 39.02439024390244,
+            "ranking": 51
+        },
+        {
+            "brawler": "DYNAMIKE",
+            "winrate": 38.0,
+            "ranking": 52
+        },
+        {
+            "brawler": "MAISIE",
+            "winrate": 37.5,
+            "ranking": 53
+        },
+        {
+            "brawler": "LILY",
+            "winrate": 36.84210526315789,
+            "ranking": 54
+        },
+        {
+            "brawler": "PIPER",
+            "winrate": 35.714285714285715,
+            "ranking": 55
+        },
+        {
+            "brawler": "MAX",
+            "winrate": 34.42622950819672,
+            "ranking": 56
+        },
+        {
+            "brawler": "ANGELO",
+            "winrate": 33.33333333333333,
+            "ranking": 57
+        },
+        {
+            "brawler": "GROM",
+            "winrate": 33.33333333333333,
+            "ranking": 58
+        },
+        {
+            "brawler": "SQUEAK",
+            "winrate": 33.33333333333333,
+            "ranking": 59
+        },
+        {
+            "brawler": "BARLEY",
+            "winrate": 33.33333333333333,
+            "ranking": 60
+        },
+        {
+            "brawler": "AMBER",
+            "winrate": 25.0,
+            "ranking": 61
+        },
+        {
+            "brawler": "KIT",
+            "winrate": 22.22222222222222,
+            "ranking": 62
+        },
+        {
+            "brawler": "LOU",
+            "winrate": 11.11111111111111,
+            "ranking": 63
+        },
+        {
+            "brawler": "TICK",
+            "winrate": 0.0,
+            "ranking": 64
+        },
+        {
+            "brawler": "GENE",
+            "winrate": 0.0,
+            "ranking": 65
+        },
+        {
+            "brawler": "MICO",
+            "winrate": 0.0,
+            "ranking": 66
+        },
+        {
+            "brawler": "8-BIT",
+            "winrate": 0.0,
+            "ranking": 67
+        }
+    ],
+    "Flaring Phoenix": [
+        {
+            "brawler": "ASH",
+            "winrate": 100.0,
+            "ranking": 1
+        },
+        {
+            "brawler": "SAM",
+            "winrate": 100.0,
+            "ranking": 2
+        },
+        {
+            "brawler": "BONNIE",
+            "winrate": 80.0,
+            "ranking": 3
+        },
+        {
+            "brawler": "ROSA",
+            "winrate": 80.0,
+            "ranking": 4
+        },
+        {
+            "brawler": "CORDELIUS",
+            "winrate": 76.92307692307693,
+            "ranking": 5
+        },
+        {
+            "brawler": "MR. P",
+            "winrate": 66.66666666666666,
+            "ranking": 6
+        },
+        {
+            "brawler": "SPROUT",
+            "winrate": 66.66666666666666,
+            "ranking": 7
+        },
+        {
+            "brawler": "MELODIE",
+            "winrate": 66.66666666666666,
+            "ranking": 8
+        },
+        {
+            "brawler": "DRACO",
+            "winrate": 64.70588235294117,
+            "ranking": 9
+        },
+        {
+            "brawler": "KIT",
+            "winrate": 62.264150943396224,
+            "ranking": 10
+        },
+        {
+            "brawler": "NITA",
+            "winrate": 62.16216216216216,
+            "ranking": 11
+        },
+        {
+            "brawler": "GENE",
+            "winrate": 60.0,
+            "ranking": 12
+        },
+        {
+            "brawler": "TARA",
+            "winrate": 60.0,
+            "ranking": 13
+        },
+        {
+            "brawler": "TICK",
+            "winrate": 59.25925925925925,
+            "ranking": 14
+        },
+        {
+            "brawler": "MICO",
+            "winrate": 58.82352941176471,
+            "ranking": 15
+        },
+        {
+            "brawler": "EMZ",
+            "winrate": 57.89473684210527,
+            "ranking": 16
+        },
+        {
+            "brawler": "FANG",
+            "winrate": 57.8125,
+            "ranking": 17
+        },
+        {
+            "brawler": "MEG",
+            "winrate": 57.57575757575758,
+            "ranking": 18
+        },
+        {
+            "brawler": "MANDY",
+            "winrate": 57.14285714285714,
+            "ranking": 19
+        },
+        {
+            "brawler": "GROM",
+            "winrate": 57.14285714285714,
+            "ranking": 20
+        },
+        {
+            "brawler": "LILY",
+            "winrate": 56.41025641025641,
+            "ranking": 21
+        },
+        {
+            "brawler": "SURGE",
+            "winrate": 56.36363636363636,
+            "ranking": 22
+        },
+        {
+            "brawler": "CHESTER",
+            "winrate": 56.25,
+            "ranking": 23
+        },
+        {
+            "brawler": "BYRON",
+            "winrate": 55.769230769230774,
+            "ranking": 24
+        },
+        {
+            "brawler": "BERRY",
+            "winrate": 55.55555555555556,
+            "ranking": 25
+        },
+        {
+            "brawler": "POCO",
+            "winrate": 53.84615384615385,
+            "ranking": 26
+        },
+        {
+            "brawler": "EDGAR",
+            "winrate": 53.6,
+            "ranking": 27
+        },
+        {
+            "brawler": "GALE",
+            "winrate": 53.48837209302325,
+            "ranking": 28
+        },
+        {
+            "brawler": "GRIFF",
+            "winrate": 52.63157894736842,
+            "ranking": 29
+        },
+        {
+            "brawler": "MORTIS",
+            "winrate": 52.63157894736842,
+            "ranking": 30
+        },
+        {
+            "brawler": "LARRY & LAWRIE",
+            "winrate": 52.54237288135594,
+            "ranking": 31
+        },
+        {
+            "brawler": "BROCK",
+            "winrate": 52.1505376344086,
+            "ranking": 32
+        },
+        {
+            "brawler": "FRANK",
+            "winrate": 51.94805194805194,
+            "ranking": 33
+        },
+        {
+            "brawler": "DARRYL",
+            "winrate": 50.0,
+            "ranking": 34
+        },
+        {
+            "brawler": "8-BIT",
+            "winrate": 50.0,
+            "ranking": 35
+        },
+        {
+            "brawler": "PEARL",
+            "winrate": 50.0,
+            "ranking": 36
+        },
+        {
+            "brawler": "R-T",
+            "winrate": 50.0,
+            "ranking": 37
+        },
+        {
+            "brawler": "MAISIE",
+            "winrate": 50.0,
+            "ranking": 38
+        },
+        {
+            "brawler": "JESSIE",
+            "winrate": 49.411764705882355,
+            "ranking": 39
+        },
+        {
+            "brawler": "BUZZ",
+            "winrate": 49.09090909090909,
+            "ranking": 40
+        },
+        {
+            "brawler": "RICO",
+            "winrate": 49.03846153846153,
+            "ranking": 41
+        },
+        {
+            "brawler": "LEON",
+            "winrate": 48.125,
+            "ranking": 42
+        },
+        {
+            "brawler": "SHELLY",
+            "winrate": 47.82608695652174,
+            "ranking": 43
+        },
+        {
+            "brawler": "DYNAMIKE",
+            "winrate": 47.32142857142857,
+            "ranking": 44
+        },
+        {
+            "brawler": "BIBI",
+            "winrate": 47.05882352941176,
+            "ranking": 45
+        },
+        {
+            "brawler": "CARL",
+            "winrate": 46.666666666666664,
+            "ranking": 46
+        },
+        {
+            "brawler": "SQUEAK",
+            "winrate": 46.666666666666664,
+            "ranking": 47
+        },
+        {
+            "brawler": "PIPER",
+            "winrate": 46.62576687116564,
+            "ranking": 48
+        },
+        {
+            "brawler": "BARLEY",
+            "winrate": 46.15384615384615,
+            "ranking": 49
+        },
+        {
+            "brawler": "NANI",
+            "winrate": 46.15384615384615,
+            "ranking": 50
+        },
+        {
+            "brawler": "MAX",
+            "winrate": 45.94594594594595,
+            "ranking": 51
+        },
+        {
+            "brawler": "CROW",
+            "winrate": 45.18518518518518,
+            "ranking": 52
+        },
+        {
+            "brawler": "ANGELO",
+            "winrate": 43.93939393939394,
+            "ranking": 53
+        },
+        {
+            "brawler": "WILLOW",
+            "winrate": 43.75,
+            "ranking": 54
+        },
+        {
+            "brawler": "BELLE",
+            "winrate": 43.66197183098591,
+            "ranking": 55
+        },
+        {
+            "brawler": "SPIKE",
+            "winrate": 43.66197183098591,
+            "ranking": 56
+        },
+        {
+            "brawler": "EL PRIMO",
+            "winrate": 40.909090909090914,
+            "ranking": 57
+        },
+        {
+            "brawler": "BO",
+            "winrate": 40.42553191489361,
+            "ranking": 58
+        },
+        {
+            "brawler": "PENNY",
+            "winrate": 40.0,
+            "ranking": 59
+        },
+        {
+            "brawler": "BEA",
+            "winrate": 40.0,
+            "ranking": 60
+        },
+        {
+            "brawler": "STU",
+            "winrate": 39.130434782608695,
+            "ranking": 61
+        },
+        {
+            "brawler": "COLT",
+            "winrate": 38.82352941176471,
+            "ranking": 62
+        },
+        {
+            "brawler": "LOU",
+            "winrate": 37.5,
+            "ranking": 63
+        },
+        {
+            "brawler": "JACKY",
+            "winrate": 37.5,
+            "ranking": 64
+        },
+        {
+            "brawler": "BUSTER",
+            "winrate": 35.714285714285715,
+            "ranking": 65
+        },
+        {
+            "brawler": "COLETTE",
+            "winrate": 34.61538461538461,
+            "ranking": 66
+        },
+        {
+            "brawler": "GRAY",
+            "winrate": 33.33333333333333,
+            "ranking": 67
+        },
+        {
+            "brawler": "CHARLIE",
+            "winrate": 33.33333333333333,
+            "ranking": 68
+        },
+        {
+            "brawler": "JANET",
+            "winrate": 33.33333333333333,
+            "ranking": 69
+        },
+        {
+            "brawler": "SANDY",
+            "winrate": 30.555555555555557,
+            "ranking": 70
+        },
+        {
+            "brawler": "GUS",
+            "winrate": 28.57142857142857,
+            "ranking": 71
+        },
+        {
+            "brawler": "AMBER",
+            "winrate": 0.0,
+            "ranking": 72
+        },
+        {
+            "brawler": "LOLA",
+            "winrate": 0.0,
+            "ranking": 73
+        },
+        {
+            "brawler": "BULL",
+            "winrate": 0.0,
+            "ranking": 74
+        },
+        {
+            "brawler": "HANK",
+            "winrate": 0.0,
+            "ranking": 75
+        },
+        {
+            "brawler": "OTIS",
+            "winrate": 0.0,
+            "ranking": 76
+        },
+        {
+            "brawler": "EVE",
+            "winrate": 0.0,
+            "ranking": 77
+        }
+    ],
+    "Penalty Kick": [
+        {
+            "brawler": "GRAY",
+            "winrate": 100.0,
+            "ranking": 1
+        },
+        {
+            "brawler": "GUS",
+            "winrate": 100.0,
+            "ranking": 2
+        },
+        {
+            "brawler": "DOUG",
+            "winrate": 94.44444444444444,
+            "ranking": 3
+        },
+        {
+            "brawler": "SAM",
+            "winrate": 85.71428571428571,
+            "ranking": 4
+        },
+        {
+            "brawler": "TICK",
+            "winrate": 84.0909090909091,
+            "ranking": 5
+        },
+        {
+            "brawler": "ASH",
+            "winrate": 80.0,
+            "ranking": 6
+        },
+        {
+            "brawler": "LOU",
+            "winrate": 77.77777777777779,
+            "ranking": 7
+        },
+        {
+            "brawler": "NITA",
+            "winrate": 67.02127659574468,
+            "ranking": 8
+        },
+        {
+            "brawler": "AMBER",
+            "winrate": 66.66666666666666,
+            "ranking": 9
+        },
+        {
+            "brawler": "MAISIE",
+            "winrate": 66.66666666666666,
+            "ranking": 10
+        },
+        {
+            "brawler": "HANK",
+            "winrate": 66.66666666666666,
+            "ranking": 11
+        },
+        {
+            "brawler": "OTIS",
+            "winrate": 66.66666666666666,
+            "ranking": 12
+        },
+        {
+            "brawler": "JACKY",
+            "winrate": 64.83516483516483,
+            "ranking": 13
+        },
+        {
+            "brawler": "SURGE",
+            "winrate": 63.829787234042556,
+            "ranking": 14
+        },
+        {
+            "brawler": "DYNAMIKE",
+            "winrate": 63.33333333333333,
+            "ranking": 15
+        },
+        {
+            "brawler": "BO",
+            "winrate": 63.1578947368421,
+            "ranking": 16
+        },
+        {
+            "brawler": "LARRY & LAWRIE",
+            "winrate": 62.5,
+            "ranking": 17
+        },
+        {
+            "brawler": "ROSA",
+            "winrate": 60.0,
+            "ranking": 18
+        },
+        {
+            "brawler": "BUSTER",
+            "winrate": 60.0,
+            "ranking": 19
+        },
+        {
+            "brawler": "BIBI",
+            "winrate": 59.3984962406015,
+            "ranking": 20
+        },
+        {
+            "brawler": "GRIFF",
+            "winrate": 58.490566037735846,
+            "ranking": 21
+        },
+        {
+            "brawler": "DRACO",
+            "winrate": 57.57575757575758,
+            "ranking": 22
+        },
+        {
+            "brawler": "EMZ",
+            "winrate": 57.333333333333336,
+            "ranking": 23
+        },
+        {
+            "brawler": "TARA",
+            "winrate": 57.14285714285714,
+            "ranking": 24
+        },
+        {
+            "brawler": "RICO",
+            "winrate": 56.98924731182796,
+            "ranking": 25
+        },
+        {
+            "brawler": "POCO",
+            "winrate": 53.84615384615385,
+            "ranking": 26
+        },
+        {
+            "brawler": "BULL",
+            "winrate": 53.48837209302325,
+            "ranking": 27
+        },
+        {
+            "brawler": "CORDELIUS",
+            "winrate": 52.23880597014925,
+            "ranking": 28
+        },
+        {
+            "brawler": "BUZZ",
+            "winrate": 51.798561151079134,
+            "ranking": 29
+        },
+        {
+            "brawler": "LILY",
+            "winrate": 51.11111111111111,
+            "ranking": 30
+        },
+        {
+            "brawler": "GALE",
+            "winrate": 50.66666666666667,
+            "ranking": 31
+        },
+        {
+            "brawler": "EL PRIMO",
+            "winrate": 50.349650349650354,
+            "ranking": 32
+        },
+        {
+            "brawler": "BELLE",
+            "winrate": 50.0,
+            "ranking": 33
+        },
+        {
+            "brawler": "MORTIS",
+            "winrate": 50.0,
+            "ranking": 34
+        },
+        {
+            "brawler": "CHARLIE",
+            "winrate": 50.0,
+            "ranking": 35
+        },
+        {
+            "brawler": "SHELLY",
+            "winrate": 49.09090909090909,
+            "ranking": 36
+        },
+        {
+            "brawler": "BERRY",
+            "winrate": 47.368421052631575,
+            "ranking": 37
+        },
+        {
+            "brawler": "BROCK",
+            "winrate": 47.22222222222222,
+            "ranking": 38
+        },
+        {
+            "brawler": "CHESTER",
+            "winrate": 46.666666666666664,
+            "ranking": 39
+        },
+        {
+            "brawler": "EDGAR",
+            "winrate": 45.11278195488722,
+            "ranking": 40
+        },
+        {
+            "brawler": "MEG",
+            "winrate": 45.0,
+            "ranking": 41
+        },
+        {
+            "brawler": "FRANK",
+            "winrate": 44.827586206896555,
+            "ranking": 42
+        },
+        {
+            "brawler": "DARRYL",
+            "winrate": 44.0,
+            "ranking": 43
+        },
+        {
+            "brawler": "JESSIE",
+            "winrate": 43.90243902439025,
+            "ranking": 44
+        },
+        {
+            "brawler": "BYRON",
+            "winrate": 42.857142857142854,
+            "ranking": 45
+        },
+        {
+            "brawler": "PIPER",
+            "winrate": 42.857142857142854,
+            "ranking": 46
+        },
+        {
+            "brawler": "COLT",
+            "winrate": 41.95804195804196,
+            "ranking": 47
+        },
+        {
+            "brawler": "FANG",
+            "winrate": 40.909090909090914,
+            "ranking": 48
+        },
+        {
+            "brawler": "SANDY",
+            "winrate": 40.56603773584906,
+            "ranking": 49
+        },
+        {
+            "brawler": "MAX",
+            "winrate": 40.0,
+            "ranking": 50
+        },
+        {
+            "brawler": "PEARL",
+            "winrate": 40.0,
+            "ranking": 51
+        },
+        {
+            "brawler": "STU",
+            "winrate": 38.46153846153847,
+            "ranking": 52
+        },
+        {
+            "brawler": "MICO",
+            "winrate": 37.5,
+            "ranking": 53
+        },
+        {
+            "brawler": "GROM",
+            "winrate": 37.5,
+            "ranking": 54
+        },
+        {
+            "brawler": "SPIKE",
+            "winrate": 36.607142857142854,
+            "ranking": 55
+        },
+        {
+            "brawler": "LEON",
+            "winrate": 34.93150684931507,
+            "ranking": 56
+        },
+        {
+            "brawler": "MR. P",
+            "winrate": 33.33333333333333,
+            "ranking": 57
+        },
+        {
+            "brawler": "CARL",
+            "winrate": 33.33333333333333,
+            "ranking": 58
+        },
+        {
+            "brawler": "PENNY",
+            "winrate": 33.33333333333333,
+            "ranking": 59
+        },
+        {
+            "brawler": "CROW",
+            "winrate": 32.78688524590164,
+            "ranking": 60
+        },
+        {
+            "brawler": "COLETTE",
+            "winrate": 28.8135593220339,
+            "ranking": 61
+        },
+        {
+            "brawler": "MELODIE",
+            "winrate": 23.52941176470588,
+            "ranking": 62
+        },
+        {
+            "brawler": "WILLOW",
+            "winrate": 20.0,
+            "ranking": 63
+        },
+        {
+            "brawler": "GENE",
+            "winrate": 20.0,
+            "ranking": 64
+        },
+        {
+            "brawler": "BARLEY",
+            "winrate": 12.5,
+            "ranking": 65
+        },
+        {
+            "brawler": "KIT",
+            "winrate": 10.0,
+            "ranking": 66
+        },
+        {
+            "brawler": "SQUEAK",
+            "winrate": 0.0,
+            "ranking": 67
+        },
+        {
+            "brawler": "SPROUT",
+            "winrate": 0.0,
+            "ranking": 68
+        },
+        {
+            "brawler": "NANI",
+            "winrate": 0.0,
+            "ranking": 69
+        }
+    ],
+    "Open Business": [
+        {
+            "brawler": "PAM",
+            "winrate": 100.0,
+            "ranking": 1
+        },
+        {
+            "brawler": "LOLA",
+            "winrate": 100.0,
+            "ranking": 2
+        },
+        {
+            "brawler": "BEA",
+            "winrate": 100.0,
+            "ranking": 3
+        },
+        {
+            "brawler": "GUS",
+            "winrate": 100.0,
+            "ranking": 4
+        },
+        {
+            "brawler": "BONNIE",
+            "winrate": 100.0,
+            "ranking": 5
+        },
+        {
+            "brawler": "HANK",
+            "winrate": 100.0,
+            "ranking": 6
+        },
+        {
+            "brawler": "SPROUT",
+            "winrate": 100.0,
+            "ranking": 7
+        },
+        {
+            "brawler": "MR. P",
+            "winrate": 100.0,
+            "ranking": 8
+        },
+        {
+            "brawler": "JANET",
+            "winrate": 100.0,
+            "ranking": 9
+        },
+        {
+            "brawler": "BUSTER",
+            "winrate": 77.77777777777779,
+            "ranking": 10
+        },
+        {
+            "brawler": "STU",
+            "winrate": 71.42857142857143,
+            "ranking": 11
+        },
+        {
+            "brawler": "R-T",
+            "winrate": 66.66666666666666,
+            "ranking": 12
+        },
+        {
+            "brawler": "SANDY",
+            "winrate": 65.6441717791411,
+            "ranking": 13
+        },
+        {
+            "brawler": "MEG",
+            "winrate": 64.91228070175438,
+            "ranking": 14
+        },
+        {
+            "brawler": "MORTIS",
+            "winrate": 61.53846153846154,
+            "ranking": 15
+        },
+        {
+            "brawler": "FRANK",
+            "winrate": 60.526315789473685,
+            "ranking": 16
+        },
+        {
+            "brawler": "JACKY",
+            "winrate": 59.523809523809526,
+            "ranking": 17
+        },
+        {
+            "brawler": "BARLEY",
+            "winrate": 58.333333333333336,
+            "ranking": 18
+        },
+        {
+            "brawler": "SHELLY",
+            "winrate": 57.89473684210527,
+            "ranking": 19
+        },
+        {
+            "brawler": "SURGE",
+            "winrate": 57.692307692307686,
+            "ranking": 20
+        },
+        {
+            "brawler": "JESSIE",
+            "winrate": 57.4585635359116,
+            "ranking": 21
+        },
+        {
+            "brawler": "KIT",
+            "winrate": 57.14285714285714,
+            "ranking": 22
+        },
+        {
+            "brawler": "FANG",
+            "winrate": 56.88073394495413,
+            "ranking": 23
+        },
+        {
+            "brawler": "NITA",
+            "winrate": 56.38297872340425,
+            "ranking": 24
+        },
+        {
+            "brawler": "BERRY",
+            "winrate": 56.14035087719298,
+            "ranking": 25
+        },
+        {
+            "brawler": "LARRY & LAWRIE",
+            "winrate": 54.761904761904766,
+            "ranking": 26
+        },
+        {
+            "brawler": "BUZZ",
+            "winrate": 53.96825396825397,
+            "ranking": 27
+        },
+        {
+            "brawler": "CROW",
+            "winrate": 53.84615384615385,
+            "ranking": 28
+        },
+        {
+            "brawler": "TARA",
+            "winrate": 53.57142857142857,
+            "ranking": 29
+        },
+        {
+            "brawler": "MAISIE",
+            "winrate": 53.333333333333336,
+            "ranking": 30
+        },
+        {
+            "brawler": "AMBER",
+            "winrate": 52.27272727272727,
+            "ranking": 31
+        },
+        {
+            "brawler": "CHESTER",
+            "winrate": 51.85185185185185,
+            "ranking": 32
+        },
+        {
+            "brawler": "GRIFF",
+            "winrate": 51.21951219512195,
+            "ranking": 33
+        },
+        {
+            "brawler": "EL PRIMO",
+            "winrate": 51.02040816326531,
+            "ranking": 34
+        },
+        {
+            "brawler": "LEON",
+            "winrate": 50.53763440860215,
+            "ranking": 35
+        },
+        {
+            "brawler": "EMZ",
+            "winrate": 50.0,
+            "ranking": 36
+        },
+        {
+            "brawler": "DOUG",
+            "winrate": 50.0,
+            "ranking": 37
+        },
+        {
+            "brawler": "GROM",
+            "winrate": 50.0,
+            "ranking": 38
+        },
+        {
+            "brawler": "TICK",
+            "winrate": 49.18032786885246,
+            "ranking": 39
+        },
+        {
+            "brawler": "GALE",
+            "winrate": 48.717948717948715,
+            "ranking": 40
+        },
+        {
+            "brawler": "POCO",
+            "winrate": 48.214285714285715,
+            "ranking": 41
+        },
+        {
+            "brawler": "CHUCK",
+            "winrate": 47.368421052631575,
+            "ranking": 42
+        },
+        {
+            "brawler": "LOU",
+            "winrate": 46.96969696969697,
+            "ranking": 43
+        },
+        {
+            "brawler": "BO",
+            "winrate": 46.913580246913575,
+            "ranking": 44
+        },
+        {
+            "brawler": "DYNAMIKE",
+            "winrate": 44.91525423728814,
+            "ranking": 45
+        },
+        {
+            "brawler": "BROCK",
+            "winrate": 43.66197183098591,
+            "ranking": 46
+        },
+        {
+            "brawler": "SPIKE",
+            "winrate": 43.47826086956522,
+            "ranking": 47
+        },
+        {
+            "brawler": "DRACO",
+            "winrate": 43.47826086956522,
+            "ranking": 48
+        },
+        {
+            "brawler": "CORDELIUS",
+            "winrate": 42.857142857142854,
+            "ranking": 49
+        },
+        {
+            "brawler": "CARL",
+            "winrate": 42.857142857142854,
+            "ranking": 50
+        },
+        {
+            "brawler": "EDGAR",
+            "winrate": 42.73504273504273,
+            "ranking": 51
+        },
+        {
+            "brawler": "COLT",
+            "winrate": 42.5531914893617,
+            "ranking": 52
+        },
+        {
+            "brawler": "PIPER",
+            "winrate": 41.02564102564102,
+            "ranking": 53
+        },
+        {
+            "brawler": "BYRON",
+            "winrate": 40.0,
+            "ranking": 54
+        },
+        {
+            "brawler": "LILY",
+            "winrate": 38.88888888888889,
+            "ranking": 55
+        },
+        {
+            "brawler": "MAX",
+            "winrate": 38.88888888888889,
+            "ranking": 56
+        },
+        {
+            "brawler": "DARRYL",
+            "winrate": 36.36363636363637,
+            "ranking": 57
+        },
+        {
+            "brawler": "8-BIT",
+            "winrate": 36.36363636363637,
+            "ranking": 58
+        },
+        {
+            "brawler": "PENNY",
+            "winrate": 36.36363636363637,
+            "ranking": 59
+        },
+        {
+            "brawler": "BIBI",
+            "winrate": 34.72222222222222,
+            "ranking": 60
+        },
+        {
+            "brawler": "COLETTE",
+            "winrate": 34.42622950819672,
+            "ranking": 61
+        },
+        {
+            "brawler": "RICO",
+            "winrate": 34.0,
+            "ranking": 62
+        },
+        {
+            "brawler": "MICO",
+            "winrate": 25.0,
+            "ranking": 63
+        },
+        {
+            "brawler": "SQUEAK",
+            "winrate": 23.52941176470588,
+            "ranking": 64
+        },
+        {
+            "brawler": "BELLE",
+            "winrate": 18.181818181818183,
+            "ranking": 65
+        },
+        {
+            "brawler": "PEARL",
+            "winrate": 18.181818181818183,
+            "ranking": 66
+        },
+        {
+            "brawler": "CHARLIE",
+            "winrate": 14.285714285714285,
+            "ranking": 67
+        },
+        {
+            "brawler": "ANGELO",
+            "winrate": 11.11111111111111,
+            "ranking": 68
+        },
+        {
+            "brawler": "MELODIE",
+            "winrate": 9.090909090909092,
+            "ranking": 69
+        },
+        {
+            "brawler": "GENE",
+            "winrate": 0.0,
+            "ranking": 70
+        },
+        {
+            "brawler": "SAM",
+            "winrate": 0.0,
+            "ranking": 71
+        },
+        {
+            "brawler": "MANDY",
+            "winrate": 0.0,
+            "ranking": 72
+        },
+        {
+            "brawler": "BULL",
+            "winrate": 0.0,
+            "ranking": 73
+        },
+        {
+            "brawler": "WILLOW",
+            "winrate": 0.0,
+            "ranking": 74
+        }
+    ],
+    "Kaboom Canyon": [
+        {
+            "brawler": "EVE",
+            "winrate": 100.0,
+            "ranking": 1
+        },
+        {
+            "brawler": "STU",
+            "winrate": 100.0,
+            "ranking": 2
+        },
+        {
+            "brawler": "GUS",
+            "winrate": 100.0,
+            "ranking": 3
+        },
+        {
+            "brawler": "DARRYL",
+            "winrate": 87.5,
+            "ranking": 4
+        },
+        {
+            "brawler": "MICO",
+            "winrate": 72.22222222222221,
+            "ranking": 5
+        },
+        {
+            "brawler": "SURGE",
+            "winrate": 70.37037037037037,
+            "ranking": 6
+        },
+        {
+            "brawler": "GRAY",
+            "winrate": 66.66666666666666,
+            "ranking": 7
+        },
+        {
+            "brawler": "FRANK",
+            "winrate": 66.15384615384615,
+            "ranking": 8
+        },
+        {
+            "brawler": "BIBI",
+            "winrate": 65.9090909090909,
+            "ranking": 9
+        },
+        {
+            "brawler": "NITA",
+            "winrate": 65.68047337278107,
+            "ranking": 10
+        },
+        {
+            "brawler": "GALE",
+            "winrate": 65.625,
+            "ranking": 11
+        },
+        {
+            "brawler": "MEG",
+            "winrate": 64.28571428571429,
+            "ranking": 12
+        },
+        {
+            "brawler": "CHUCK",
+            "winrate": 64.15094339622641,
+            "ranking": 13
+        },
+        {
+            "brawler": "COLETTE",
+            "winrate": 63.97849462365591,
+            "ranking": 14
+        },
+        {
+            "brawler": "LILY",
+            "winrate": 60.0,
+            "ranking": 15
+        },
+        {
+            "brawler": "DRACO",
+            "winrate": 60.0,
+            "ranking": 16
+        },
+        {
+            "brawler": "BULL",
+            "winrate": 58.82352941176471,
+            "ranking": 17
+        },
+        {
+            "brawler": "BELLE",
+            "winrate": 57.692307692307686,
+            "ranking": 18
+        },
+        {
+            "brawler": "EDGAR",
+            "winrate": 57.22543352601156,
+            "ranking": 19
+        },
+        {
+            "brawler": "CROW",
+            "winrate": 55.940594059405946,
+            "ranking": 20
+        },
+        {
+            "brawler": "JESSIE",
+            "winrate": 55.61797752808989,
+            "ranking": 21
+        },
+        {
+            "brawler": "MR. P",
+            "winrate": 55.55555555555556,
+            "ranking": 22
+        },
+        {
+            "brawler": "EMZ",
+            "winrate": 54.65116279069767,
+            "ranking": 23
+        },
+        {
+            "brawler": "GRIFF",
+            "winrate": 52.5,
+            "ranking": 24
+        },
+        {
+            "brawler": "RICO",
+            "winrate": 50.413223140495866,
+            "ranking": 25
+        },
+        {
+            "brawler": "PENNY",
+            "winrate": 50.0,
+            "ranking": 26
+        },
+        {
+            "brawler": "8-BIT",
+            "winrate": 50.0,
+            "ranking": 27
+        },
+        {
+            "brawler": "MELODIE",
+            "winrate": 50.0,
+            "ranking": 28
+        },
+        {
+            "brawler": "LOU",
+            "winrate": 50.0,
+            "ranking": 29
+        },
+        {
+            "brawler": "BONNIE",
+            "winrate": 50.0,
+            "ranking": 30
+        },
+        {
+            "brawler": "PAM",
+            "winrate": 50.0,
+            "ranking": 31
+        },
+        {
+            "brawler": "COLT",
+            "winrate": 48.091603053435115,
+            "ranking": 32
+        },
+        {
+            "brawler": "AMBER",
+            "winrate": 48.05194805194805,
+            "ranking": 33
+        },
+        {
+            "brawler": "SQUEAK",
+            "winrate": 46.15384615384615,
+            "ranking": 34
+        },
+        {
+            "brawler": "PEARL",
+            "winrate": 46.15384615384615,
+            "ranking": 35
+        },
+        {
+            "brawler": "BYRON",
+            "winrate": 45.45454545454545,
+            "ranking": 36
+        },
+        {
+            "brawler": "NANI",
+            "winrate": 45.45454545454545,
+            "ranking": 37
+        },
+        {
+            "brawler": "BROCK",
+            "winrate": 45.3125,
+            "ranking": 38
+        },
+        {
+            "brawler": "SPIKE",
+            "winrate": 45.14563106796117,
+            "ranking": 39
+        },
+        {
+            "brawler": "LARRY & LAWRIE",
+            "winrate": 45.0,
+            "ranking": 40
+        },
+        {
+            "brawler": "PIPER",
+            "winrate": 44.79166666666667,
+            "ranking": 41
+        },
+        {
+            "brawler": "TARA",
+            "winrate": 43.75,
+            "ranking": 42
+        },
+        {
+            "brawler": "BUZZ",
+            "winrate": 43.373493975903614,
+            "ranking": 43
+        },
+        {
+            "brawler": "JACKY",
+            "winrate": 42.857142857142854,
+            "ranking": 44
+        },
+        {
+            "brawler": "BERRY",
+            "winrate": 42.028985507246375,
+            "ranking": 45
+        },
+        {
+            "brawler": "SHELLY",
+            "winrate": 41.17647058823529,
+            "ranking": 46
+        },
+        {
+            "brawler": "ANGELO",
+            "winrate": 40.0,
+            "ranking": 47
+        },
+        {
+            "brawler": "GROM",
+            "winrate": 40.0,
+            "ranking": 48
+        },
+        {
+            "brawler": "WILLOW",
+            "winrate": 40.0,
+            "ranking": 49
+        },
+        {
+            "brawler": "LOLA",
+            "winrate": 38.46153846153847,
+            "ranking": 50
+        },
+        {
+            "brawler": "MAX",
+            "winrate": 38.095238095238095,
+            "ranking": 51
+        },
+        {
+            "brawler": "BO",
+            "winrate": 37.735849056603776,
+            "ranking": 52
+        },
+        {
+            "brawler": "DYNAMIKE",
+            "winrate": 37.254901960784316,
+            "ranking": 53
+        },
+        {
+            "brawler": "EL PRIMO",
+            "winrate": 36.84210526315789,
+            "ranking": 54
+        },
+        {
+            "brawler": "LEON",
+            "winrate": 35.294117647058826,
+            "ranking": 55
+        },
+        {
+            "brawler": "TICK",
+            "winrate": 33.33333333333333,
+            "ranking": 56
+        },
+        {
+            "brawler": "GENE",
+            "winrate": 33.33333333333333,
+            "ranking": 57
+        },
+        {
+            "brawler": "ASH",
+            "winrate": 33.33333333333333,
+            "ranking": 58
+        },
+        {
+            "brawler": "RUFFS",
+            "winrate": 33.33333333333333,
+            "ranking": 59
+        },
+        {
+            "brawler": "MANDY",
+            "winrate": 33.33333333333333,
+            "ranking": 60
+        },
+        {
+            "brawler": "FANG",
+            "winrate": 28.57142857142857,
+            "ranking": 61
+        },
+        {
+            "brawler": "BARLEY",
+            "winrate": 28.57142857142857,
+            "ranking": 62
+        },
+        {
+            "brawler": "CARL",
+            "winrate": 25.0,
+            "ranking": 63
+        },
+        {
+            "brawler": "CORDELIUS",
+            "winrate": 22.22222222222222,
+            "ranking": 64
+        },
+        {
+            "brawler": "CHESTER",
+            "winrate": 22.22222222222222,
+            "ranking": 65
+        },
+        {
+            "brawler": "SANDY",
+            "winrate": 20.0,
+            "ranking": 66
+        },
+        {
+            "brawler": "MAISIE",
+            "winrate": 20.0,
+            "ranking": 67
+        },
+        {
+            "brawler": "OTIS",
+            "winrate": 20.0,
+            "ranking": 68
+        },
+        {
+            "brawler": "BUSTER",
+            "winrate": 0.0,
+            "ranking": 69
+        },
+        {
+            "brawler": "ROSA",
+            "winrate": 0.0,
+            "ranking": 70
+        },
+        {
+            "brawler": "R-T",
+            "winrate": 0.0,
+            "ranking": 71
+        },
+        {
+            "brawler": "MORTIS",
+            "winrate": 0.0,
+            "ranking": 72
+        },
+        {
+            "brawler": "SPROUT",
+            "winrate": 0.0,
+            "ranking": 73
+        },
+        {
+            "brawler": "CHARLIE",
+            "winrate": 0.0,
+            "ranking": 74
+        },
+        {
+            "brawler": "POCO",
+            "winrate": 0.0,
+            "ranking": 75
+        },
+        {
+            "brawler": "DOUG",
+            "winrate": 0.0,
+            "ranking": 76
+        }
+    ],
+    "Belle's Rock": [
+        {
+            "brawler": "PENNY",
+            "winrate": 100.0,
+            "ranking": 1
+        },
+        {
+            "brawler": "DOUG",
+            "winrate": 100.0,
+            "ranking": 2
+        },
+        {
+            "brawler": "DRACO",
+            "winrate": 93.33333333333333,
+            "ranking": 3
+        },
+        {
+            "brawler": "POCO",
+            "winrate": 77.77777777777779,
+            "ranking": 4
+        },
+        {
+            "brawler": "CARL",
+            "winrate": 72.72727272727273,
+            "ranking": 5
+        },
+        {
+            "brawler": "8-BIT",
+            "winrate": 71.42857142857143,
+            "ranking": 6
+        },
+        {
+            "brawler": "BARLEY",
+            "winrate": 70.0,
+            "ranking": 7
+        },
+        {
+            "brawler": "GROM",
+            "winrate": 69.49152542372882,
+            "ranking": 8
+        },
+        {
+            "brawler": "MEG",
+            "winrate": 68.42105263157895,
+            "ranking": 9
+        },
+        {
+            "brawler": "MANDY",
+            "winrate": 67.44186046511628,
+            "ranking": 10
+        },
+        {
+            "brawler": "CHESTER",
+            "winrate": 66.66666666666666,
+            "ranking": 11
+        },
+        {
+            "brawler": "TICK",
+            "winrate": 63.63636363636363,
+            "ranking": 12
+        },
+        {
+            "brawler": "EDGAR",
+            "winrate": 61.66666666666667,
+            "ranking": 13
+        },
+        {
+            "brawler": "GALE",
+            "winrate": 61.111111111111114,
+            "ranking": 14
+        },
+        {
+            "brawler": "MORTIS",
+            "winrate": 60.0,
+            "ranking": 15
+        },
+        {
+            "brawler": "BUSTER",
+            "winrate": 60.0,
+            "ranking": 16
+        },
+        {
+            "brawler": "GRIFF",
+            "winrate": 58.82352941176471,
+            "ranking": 17
+        },
+        {
+            "brawler": "OTIS",
+            "winrate": 57.14285714285714,
+            "ranking": 18
+        },
+        {
+            "brawler": "MICO",
+            "winrate": 56.75675675675676,
+            "ranking": 19
+        },
+        {
+            "brawler": "SANDY",
+            "winrate": 56.00000000000001,
+            "ranking": 20
+        },
+        {
+            "brawler": "SURGE",
+            "winrate": 55.55555555555556,
+            "ranking": 21
+        },
+        {
+            "brawler": "MAISIE",
+            "winrate": 55.55555555555556,
+            "ranking": 22
+        },
+        {
+            "brawler": "LOLA",
+            "winrate": 55.55555555555556,
+            "ranking": 23
+        },
+        {
+            "brawler": "MAX",
+            "winrate": 54.83870967741935,
+            "ranking": 24
+        },
+        {
+            "brawler": "SPIKE",
+            "winrate": 53.5483870967742,
+            "ranking": 25
+        },
+        {
+            "brawler": "LOU",
+            "winrate": 53.333333333333336,
+            "ranking": 26
+        },
+        {
+            "brawler": "MELODIE",
+            "winrate": 53.333333333333336,
+            "ranking": 27
+        },
+        {
+            "brawler": "LEON",
+            "winrate": 53.271028037383175,
+            "ranking": 28
+        },
+        {
+            "brawler": "FRANK",
+            "winrate": 52.85714285714286,
+            "ranking": 29
+        },
+        {
+            "brawler": "ANGELO",
+            "winrate": 52.112676056338024,
+            "ranking": 30
+        },
+        {
+            "brawler": "BYRON",
+            "winrate": 51.78571428571429,
+            "ranking": 31
+        },
+        {
+            "brawler": "EL PRIMO",
+            "winrate": 51.724137931034484,
+            "ranking": 32
+        },
+        {
+            "brawler": "GENE",
+            "winrate": 51.61290322580645,
+            "ranking": 33
+        },
+        {
+            "brawler": "GRAY",
+            "winrate": 50.877192982456144,
+            "ranking": 34
+        },
+        {
+            "brawler": "STU",
+            "winrate": 50.0,
+            "ranking": 35
+        },
+        {
+            "brawler": "COLETTE",
+            "winrate": 50.0,
+            "ranking": 36
+        },
+        {
+            "brawler": "PIPER",
+            "winrate": 50.0,
+            "ranking": 37
+        },
+        {
+            "brawler": "TARA",
+            "winrate": 50.0,
+            "ranking": 38
+        },
+        {
+            "brawler": "NITA",
+            "winrate": 50.0,
+            "ranking": 39
+        },
+        {
+            "brawler": "ASH",
+            "winrate": 50.0,
+            "ranking": 40
+        },
+        {
+            "brawler": "BROCK",
+            "winrate": 49.411764705882355,
+            "ranking": 41
+        },
+        {
+            "brawler": "LARRY & LAWRIE",
+            "winrate": 49.39759036144578,
+            "ranking": 42
+        },
+        {
+            "brawler": "RICO",
+            "winrate": 47.94520547945205,
+            "ranking": 43
+        },
+        {
+            "brawler": "DYNAMIKE",
+            "winrate": 47.41379310344828,
+            "ranking": 44
+        },
+        {
+            "brawler": "SPROUT",
+            "winrate": 46.42857142857143,
+            "ranking": 45
+        },
+        {
+            "brawler": "BUZZ",
+            "winrate": 46.3768115942029,
+            "ranking": 46
+        },
+        {
+            "brawler": "JESSIE",
+            "winrate": 46.05263157894737,
+            "ranking": 47
+        },
+        {
+            "brawler": "KIT",
+            "winrate": 44.44444444444444,
+            "ranking": 48
+        },
+        {
+            "brawler": "AMBER",
+            "winrate": 44.44444444444444,
+            "ranking": 49
+        },
+        {
+            "brawler": "MR. P",
+            "winrate": 44.11764705882353,
+            "ranking": 50
+        },
+        {
+            "brawler": "BERRY",
+            "winrate": 43.333333333333336,
+            "ranking": 51
+        },
+        {
+            "brawler": "PEARL",
+            "winrate": 42.857142857142854,
+            "ranking": 52
+        },
+        {
+            "brawler": "JACKY",
+            "winrate": 42.10526315789473,
+            "ranking": 53
+        },
+        {
+            "brawler": "EMZ",
+            "winrate": 41.935483870967744,
+            "ranking": 54
+        },
+        {
+            "brawler": "SHELLY",
+            "winrate": 41.66666666666667,
+            "ranking": 55
+        },
+        {
+            "brawler": "CROW",
+            "winrate": 41.05263157894737,
+            "ranking": 56
+        },
+        {
+            "brawler": "CORDELIUS",
+            "winrate": 40.0,
+            "ranking": 57
+        },
+        {
+            "brawler": "CHARLIE",
+            "winrate": 40.0,
+            "ranking": 58
+        },
+        {
+            "brawler": "FANG",
+            "winrate": 39.02439024390244,
+            "ranking": 59
+        },
+        {
+            "brawler": "BEA",
+            "winrate": 38.88888888888889,
+            "ranking": 60
+        },
+        {
+            "brawler": "BONNIE",
+            "winrate": 38.46153846153847,
+            "ranking": 61
+        },
+        {
+            "brawler": "LILY",
+            "winrate": 38.095238095238095,
+            "ranking": 62
+        },
+        {
+            "brawler": "BO",
+            "winrate": 37.254901960784316,
+            "ranking": 63
+        },
+        {
+            "brawler": "COLT",
+            "winrate": 37.22627737226277,
+            "ranking": 64
+        },
+        {
+            "brawler": "SQUEAK",
+            "winrate": 36.36363636363637,
+            "ranking": 65
+        },
+        {
+            "brawler": "R-T",
+            "winrate": 35.714285714285715,
+            "ranking": 66
+        },
+        {
+            "brawler": "GUS",
+            "winrate": 33.33333333333333,
+            "ranking": 67
+        },
+        {
+            "brawler": "WILLOW",
+            "winrate": 33.33333333333333,
+            "ranking": 68
+        },
+        {
+            "brawler": "BIBI",
+            "winrate": 33.33333333333333,
+            "ranking": 69
+        },
+        {
+            "brawler": "JANET",
+            "winrate": 33.33333333333333,
+            "ranking": 70
+        },
+        {
+            "brawler": "HANK",
+            "winrate": 33.33333333333333,
+            "ranking": 71
+        },
+        {
+            "brawler": "CHUCK",
+            "winrate": 33.33333333333333,
+            "ranking": 72
+        },
+        {
+            "brawler": "BELLE",
+            "winrate": 32.69230769230769,
+            "ranking": 73
+        },
+        {
+            "brawler": "NANI",
+            "winrate": 29.411764705882355,
+            "ranking": 74
+        },
+        {
+            "brawler": "RUFFS",
+            "winrate": 20.0,
+            "ranking": 75
+        },
+        {
+            "brawler": "DARRYL",
+            "winrate": 0.0,
+            "ranking": 76
+        },
+        {
+            "brawler": "BULL",
+            "winrate": 0.0,
+            "ranking": 77
+        }
+    ],
+    "Parallel Plays": [
+        {
+            "brawler": "BEA",
+            "winrate": 100.0,
+            "ranking": 1
+        },
+        {
+            "brawler": "MANDY",
+            "winrate": 100.0,
+            "ranking": 2
+        },
+        {
+            "brawler": "GRAY",
+            "winrate": 100.0,
+            "ranking": 3
+        },
+        {
+            "brawler": "PENNY",
+            "winrate": 87.5,
+            "ranking": 4
+        },
+        {
+            "brawler": "HANK",
+            "winrate": 85.71428571428571,
+            "ranking": 5
+        },
+        {
+            "brawler": "CHESTER",
+            "winrate": 83.33333333333334,
+            "ranking": 6
+        },
+        {
+            "brawler": "ANGELO",
+            "winrate": 80.0,
+            "ranking": 7
+        },
+        {
+            "brawler": "MORTIS",
+            "winrate": 70.0,
+            "ranking": 8
+        },
+        {
+            "brawler": "JACKY",
+            "winrate": 68.69565217391305,
+            "ranking": 9
+        },
+        {
+            "brawler": "EDGAR",
+            "winrate": 62.65822784810127,
+            "ranking": 10
+        },
+        {
+            "brawler": "BARLEY",
+            "winrate": 61.97183098591549,
+            "ranking": 11
+        },
+        {
+            "brawler": "BIBI",
+            "winrate": 60.62499999999999,
+            "ranking": 12
+        },
+        {
+            "brawler": "MELODIE",
+            "winrate": 60.60606060606061,
+            "ranking": 13
+        },
+        {
+            "brawler": "EL PRIMO",
+            "winrate": 60.43956043956044,
+            "ranking": 14
+        },
+        {
+            "brawler": "SURGE",
+            "winrate": 60.150375939849624,
+            "ranking": 15
+        },
+        {
+            "brawler": "BYRON",
+            "winrate": 60.0,
+            "ranking": 16
+        },
+        {
+            "brawler": "SAM",
+            "winrate": 60.0,
+            "ranking": 17
+        },
+        {
+            "brawler": "DOUG",
+            "winrate": 59.57446808510638,
+            "ranking": 18
+        },
+        {
+            "brawler": "AMBER",
+            "winrate": 58.333333333333336,
+            "ranking": 19
+        },
+        {
+            "brawler": "FRANK",
+            "winrate": 55.46218487394958,
+            "ranking": 20
+        },
+        {
+            "brawler": "KIT",
+            "winrate": 55.172413793103445,
+            "ranking": 21
+        },
+        {
+            "brawler": "SHELLY",
+            "winrate": 54.23728813559322,
+            "ranking": 22
+        },
+        {
+            "brawler": "GRIFF",
+            "winrate": 53.84615384615385,
+            "ranking": 23
+        },
+        {
+            "brawler": "MICO",
+            "winrate": 52.32558139534884,
+            "ranking": 24
+        },
+        {
+            "brawler": "LEON",
+            "winrate": 51.94805194805194,
+            "ranking": 25
+        },
+        {
+            "brawler": "CROW",
+            "winrate": 51.89873417721519,
+            "ranking": 26
+        },
+        {
+            "brawler": "DARRYL",
+            "winrate": 50.0,
+            "ranking": 27
+        },
+        {
+            "brawler": "MR. P",
+            "winrate": 50.0,
+            "ranking": 28
+        },
+        {
+            "brawler": "BUSTER",
+            "winrate": 50.0,
+            "ranking": 29
+        },
+        {
+            "brawler": "BO",
+            "winrate": 50.0,
+            "ranking": 30
+        },
+        {
+            "brawler": "BERRY",
+            "winrate": 49.152542372881356,
+            "ranking": 31
+        },
+        {
+            "brawler": "CORDELIUS",
+            "winrate": 47.368421052631575,
+            "ranking": 32
+        },
+        {
+            "brawler": "LARRY & LAWRIE",
+            "winrate": 47.32824427480916,
+            "ranking": 33
+        },
+        {
+            "brawler": "DRACO",
+            "winrate": 47.22222222222222,
+            "ranking": 34
+        },
+        {
+            "brawler": "STU",
+            "winrate": 46.666666666666664,
+            "ranking": 35
+        },
+        {
+            "brawler": "LILY",
+            "winrate": 46.15384615384615,
+            "ranking": 36
+        },
+        {
+            "brawler": "BUZZ",
+            "winrate": 46.09929078014184,
+            "ranking": 37
+        },
+        {
+            "brawler": "SPIKE",
+            "winrate": 46.06060606060606,
+            "ranking": 38
+        },
+        {
+            "brawler": "TICK",
+            "winrate": 45.90163934426229,
+            "ranking": 39
+        },
+        {
+            "brawler": "DYNAMIKE",
+            "winrate": 45.83333333333333,
+            "ranking": 40
+        },
+        {
+            "brawler": "SANDY",
+            "winrate": 45.67901234567901,
+            "ranking": 41
+        },
+        {
+            "brawler": "BROCK",
+            "winrate": 45.65217391304348,
+            "ranking": 42
+        },
+        {
+            "brawler": "COLETTE",
+            "winrate": 45.614035087719294,
+            "ranking": 43
+        },
+        {
+            "brawler": "EMZ",
+            "winrate": 44.89795918367347,
+            "ranking": 44
+        },
+        {
+            "brawler": "SQUEAK",
+            "winrate": 44.0,
+            "ranking": 45
+        },
+        {
+            "brawler": "FANG",
+            "winrate": 43.75,
+            "ranking": 46
+        },
+        {
+            "brawler": "CARL",
+            "winrate": 43.75,
+            "ranking": 47
+        },
+        {
+            "brawler": "MAX",
+            "winrate": 42.10526315789473,
+            "ranking": 48
+        },
+        {
+            "brawler": "LOU",
+            "winrate": 40.909090909090914,
+            "ranking": 49
+        },
+        {
+            "brawler": "GALE",
+            "winrate": 40.35087719298245,
+            "ranking": 50
+        },
+        {
+            "brawler": "ROSA",
+            "winrate": 40.0,
+            "ranking": 51
+        },
+        {
+            "brawler": "JESSIE",
+            "winrate": 39.59731543624161,
+            "ranking": 52
+        },
+        {
+            "brawler": "WILLOW",
+            "winrate": 38.88888888888889,
+            "ranking": 53
+        },
+        {
+            "brawler": "NITA",
+            "winrate": 38.775510204081634,
+            "ranking": 54
+        },
+        {
+            "brawler": "POCO",
+            "winrate": 37.5,
+            "ranking": 55
+        },
+        {
+            "brawler": "COLT",
+            "winrate": 37.03703703703704,
+            "ranking": 56
+        },
+        {
+            "brawler": "MEG",
+            "winrate": 35.294117647058826,
+            "ranking": 57
+        },
+        {
+            "brawler": "RICO",
+            "winrate": 34.61538461538461,
+            "ranking": 58
+        },
+        {
+            "brawler": "SPROUT",
+            "winrate": 33.33333333333333,
+            "ranking": 59
+        },
+        {
+            "brawler": "PIPER",
+            "winrate": 33.33333333333333,
+            "ranking": 60
+        },
+        {
+            "brawler": "OTIS",
+            "winrate": 33.33333333333333,
+            "ranking": 61
+        },
+        {
+            "brawler": "GROM",
+            "winrate": 28.57142857142857,
+            "ranking": 62
+        },
+        {
+            "brawler": "PEARL",
+            "winrate": 28.57142857142857,
+            "ranking": 63
+        },
+        {
+            "brawler": "MAISIE",
+            "winrate": 25.0,
+            "ranking": 64
+        },
+        {
+            "brawler": "BULL",
+            "winrate": 23.809523809523807,
+            "ranking": 65
+        },
+        {
+            "brawler": "CHARLIE",
+            "winrate": 0.0,
+            "ranking": 66
+        },
+        {
+            "brawler": "BONNIE",
+            "winrate": 0.0,
+            "ranking": 67
+        },
+        {
+            "brawler": "GENE",
+            "winrate": 0.0,
+            "ranking": 68
+        },
+        {
+            "brawler": "TARA",
+            "winrate": 0.0,
+            "ranking": 69
+        },
+        {
+            "brawler": "R-T",
+            "winrate": 0.0,
+            "ranking": 70
+        },
+        {
+            "brawler": "NANI",
+            "winrate": 0.0,
+            "ranking": 71
+        }
+    ],
+    "Hot Potato": [
+        {
+            "brawler": "LOLA",
+            "winrate": 100.0,
+            "ranking": 1
+        },
+        {
+            "brawler": "CARL",
+            "winrate": 80.0,
+            "ranking": 2
+        },
+        {
+            "brawler": "GRIFF",
+            "winrate": 75.0,
+            "ranking": 3
+        },
+        {
+            "brawler": "BULL",
+            "winrate": 70.2127659574468,
+            "ranking": 4
+        },
+        {
+            "brawler": "BUSTER",
+            "winrate": 66.66666666666666,
+            "ranking": 5
+        },
+        {
+            "brawler": "STU",
+            "winrate": 66.66666666666666,
+            "ranking": 6
+        },
+        {
+            "brawler": "NITA",
+            "winrate": 64.24581005586593,
+            "ranking": 7
+        },
+        {
+            "brawler": "TICK",
+            "winrate": 63.63636363636363,
+            "ranking": 8
+        },
+        {
+            "brawler": "BIBI",
+            "winrate": 62.7906976744186,
+            "ranking": 9
+        },
+        {
+            "brawler": "PEARL",
+            "winrate": 62.5,
+            "ranking": 10
+        },
+        {
+            "brawler": "CHESTER",
+            "winrate": 61.111111111111114,
+            "ranking": 11
+        },
+        {
+            "brawler": "CHARLIE",
+            "winrate": 60.0,
+            "ranking": 12
+        },
+        {
+            "brawler": "ROSA",
+            "winrate": 60.0,
+            "ranking": 13
+        },
+        {
+            "brawler": "GALE",
+            "winrate": 58.82352941176471,
+            "ranking": 14
+        },
+        {
+            "brawler": "EL PRIMO",
+            "winrate": 58.82352941176471,
+            "ranking": 15
+        },
+        {
+            "brawler": "FRANK",
+            "winrate": 58.76288659793815,
+            "ranking": 16
+        },
+        {
+            "brawler": "EDGAR",
+            "winrate": 56.886227544910184,
+            "ranking": 17
+        },
+        {
+            "brawler": "JESSIE",
+            "winrate": 56.12903225806451,
+            "ranking": 18
+        },
+        {
+            "brawler": "MEG",
+            "winrate": 54.761904761904766,
+            "ranking": 19
+        },
+        {
+            "brawler": "BELLE",
+            "winrate": 54.54545454545454,
+            "ranking": 20
+        },
+        {
+            "brawler": "MR. P",
+            "winrate": 54.54545454545454,
+            "ranking": 21
+        },
+        {
+            "brawler": "SURGE",
+            "winrate": 53.57142857142857,
+            "ranking": 22
+        },
+        {
+            "brawler": "DRACO",
+            "winrate": 53.57142857142857,
+            "ranking": 23
+        },
+        {
+            "brawler": "BERRY",
+            "winrate": 52.94117647058824,
+            "ranking": 24
+        },
+        {
+            "brawler": "COLETTE",
+            "winrate": 52.662721893491124,
+            "ranking": 25
+        },
+        {
+            "brawler": "MELODIE",
+            "winrate": 52.22222222222223,
+            "ranking": 26
+        },
+        {
+            "brawler": "COLT",
+            "winrate": 51.94805194805194,
+            "ranking": 27
+        },
+        {
+            "brawler": "FANG",
+            "winrate": 51.28205128205128,
+            "ranking": 28
+        },
+        {
+            "brawler": "CROW",
+            "winrate": 50.55555555555556,
+            "ranking": 29
+        },
+        {
+            "brawler": "CORDELIUS",
+            "winrate": 50.0,
+            "ranking": 30
+        },
+        {
+            "brawler": "MORTIS",
+            "winrate": 50.0,
+            "ranking": 31
+        },
+        {
+            "brawler": "BONNIE",
+            "winrate": 50.0,
+            "ranking": 32
+        },
+        {
+            "brawler": "BARLEY",
+            "winrate": 50.0,
+            "ranking": 33
+        },
+        {
+            "brawler": "NANI",
+            "winrate": 50.0,
+            "ranking": 34
+        },
+        {
+            "brawler": "SPROUT",
+            "winrate": 50.0,
+            "ranking": 35
+        },
+        {
+            "brawler": "RUFFS",
+            "winrate": 50.0,
+            "ranking": 36
+        },
+        {
+            "brawler": "R-T",
+            "winrate": 50.0,
+            "ranking": 37
+        },
+        {
+            "brawler": "GUS",
+            "winrate": 50.0,
+            "ranking": 38
+        },
+        {
+            "brawler": "GROM",
+            "winrate": 50.0,
+            "ranking": 39
+        },
+        {
+            "brawler": "AMBER",
+            "winrate": 48.214285714285715,
+            "ranking": 40
+        },
+        {
+            "brawler": "BUZZ",
+            "winrate": 48.05194805194805,
+            "ranking": 41
+        },
+        {
+            "brawler": "EMZ",
+            "winrate": 47.82608695652174,
+            "ranking": 42
+        },
+        {
+            "brawler": "LARRY & LAWRIE",
+            "winrate": 47.61904761904761,
+            "ranking": 43
+        },
+        {
+            "brawler": "LEON",
+            "winrate": 47.05882352941176,
+            "ranking": 44
+        },
+        {
+            "brawler": "DYNAMIKE",
+            "winrate": 44.696969696969695,
+            "ranking": 45
+        },
+        {
+            "brawler": "SPIKE",
+            "winrate": 43.18181818181818,
+            "ranking": 46
+        },
+        {
+            "brawler": "RICO",
+            "winrate": 42.857142857142854,
+            "ranking": 47
+        },
+        {
+            "brawler": "PENNY",
+            "winrate": 41.66666666666667,
+            "ranking": 48
+        },
+        {
+            "brawler": "BROCK",
+            "winrate": 40.5940594059406,
+            "ranking": 49
+        },
+        {
+            "brawler": "8-BIT",
+            "winrate": 40.42553191489361,
+            "ranking": 50
+        },
+        {
+            "brawler": "SANDY",
+            "winrate": 40.0,
+            "ranking": 51
+        },
+        {
+            "brawler": "OTIS",
+            "winrate": 40.0,
+            "ranking": 52
+        },
+        {
+            "brawler": "CHUCK",
+            "winrate": 39.6551724137931,
+            "ranking": 53
+        },
+        {
+            "brawler": "SHELLY",
+            "winrate": 39.285714285714285,
+            "ranking": 54
+        },
+        {
+            "brawler": "MAX",
+            "winrate": 38.88888888888889,
+            "ranking": 55
+        },
+        {
+            "brawler": "DARRYL",
+            "winrate": 38.46153846153847,
+            "ranking": 56
+        },
+        {
+            "brawler": "TARA",
+            "winrate": 38.46153846153847,
+            "ranking": 57
+        },
+        {
+            "brawler": "MANDY",
+            "winrate": 37.5,
+            "ranking": 58
+        },
+        {
+            "brawler": "LILY",
+            "winrate": 36.84210526315789,
+            "ranking": 59
+        },
+        {
+            "brawler": "POCO",
+            "winrate": 33.33333333333333,
+            "ranking": 60
+        },
+        {
+            "brawler": "BO",
+            "winrate": 30.76923076923077,
+            "ranking": 61
+        },
+        {
+            "brawler": "PIPER",
+            "winrate": 28.57142857142857,
+            "ranking": 62
+        },
+        {
+            "brawler": "LOU",
+            "winrate": 20.0,
+            "ranking": 63
+        },
+        {
+            "brawler": "MICO",
+            "winrate": 16.666666666666664,
+            "ranking": 64
+        },
+        {
+            "brawler": "JACKY",
+            "winrate": 11.11111111111111,
+            "ranking": 65
+        },
+        {
+            "brawler": "SQUEAK",
+            "winrate": 0.0,
+            "ranking": 66
+        },
+        {
+            "brawler": "KIT",
+            "winrate": 0.0,
+            "ranking": 67
+        },
+        {
+            "brawler": "ANGELO",
+            "winrate": 0.0,
+            "ranking": 68
+        },
+        {
+            "brawler": "ASH",
+            "winrate": 0.0,
+            "ranking": 69
+        },
+        {
+            "brawler": "EVE",
+            "winrate": 0.0,
+            "ranking": 70
+        },
+        {
+            "brawler": "SAM",
+            "winrate": 0.0,
+            "ranking": 71
+        },
+        {
+            "brawler": "DOUG",
+            "winrate": 0.0,
+            "ranking": 72
+        },
+        {
+            "brawler": "BYRON",
+            "winrate": 0.0,
+            "ranking": 73
+        },
+        {
+            "brawler": "WILLOW",
+            "winrate": 0.0,
+            "ranking": 74
+        },
+        {
+            "brawler": "BEA",
+            "winrate": 0.0,
+            "ranking": 75
+        },
+        {
+            "brawler": "GENE",
+            "winrate": 0.0,
+            "ranking": 76
+        }
+    ],
+    "Hard Rock Mine": [
+        {
+            "brawler": "OTIS",
+            "winrate": 100.0,
+            "ranking": 1
+        },
+        {
+            "brawler": "JANET",
+            "winrate": 100.0,
+            "ranking": 2
+        },
+        {
+            "brawler": "GRAY",
+            "winrate": 100.0,
+            "ranking": 3
+        },
+        {
+            "brawler": "SPROUT",
+            "winrate": 100.0,
+            "ranking": 4
+        },
+        {
+            "brawler": "MICO",
+            "winrate": 83.33333333333334,
+            "ranking": 5
+        },
+        {
+            "brawler": "BARLEY",
+            "winrate": 80.0,
+            "ranking": 6
+        },
+        {
+            "brawler": "BERRY",
+            "winrate": 78.94736842105263,
+            "ranking": 7
+        },
+        {
+            "brawler": "PEARL",
+            "winrate": 72.22222222222221,
+            "ranking": 8
+        },
+        {
+            "brawler": "JACKY",
+            "winrate": 71.1864406779661,
+            "ranking": 9
+        },
+        {
+            "brawler": "MELODIE",
+            "winrate": 66.66666666666666,
+            "ranking": 10
+        },
+        {
+            "brawler": "LOU",
+            "winrate": 66.66666666666666,
+            "ranking": 11
+        },
+        {
+            "brawler": "CHARLIE",
+            "winrate": 66.66666666666666,
+            "ranking": 12
+        },
+        {
+            "brawler": "MANDY",
+            "winrate": 66.66666666666666,
+            "ranking": 13
+        },
+        {
+            "brawler": "ROSA",
+            "winrate": 64.70588235294117,
+            "ranking": 14
+        },
+        {
+            "brawler": "LARRY & LAWRIE",
+            "winrate": 63.63636363636363,
+            "ranking": 15
+        },
+        {
+            "brawler": "BIBI",
+            "winrate": 61.53846153846154,
+            "ranking": 16
+        },
+        {
+            "brawler": "FRANK",
+            "winrate": 60.0,
+            "ranking": 17
+        },
+        {
+            "brawler": "DOUG",
+            "winrate": 60.0,
+            "ranking": 18
+        },
+        {
+            "brawler": "ASH",
+            "winrate": 60.0,
+            "ranking": 19
+        },
+        {
+            "brawler": "BUZZ",
+            "winrate": 57.47126436781609,
+            "ranking": 20
+        },
+        {
+            "brawler": "MR. P",
+            "winrate": 57.14285714285714,
+            "ranking": 21
+        },
+        {
+            "brawler": "SURGE",
+            "winrate": 55.26315789473685,
+            "ranking": 22
+        },
+        {
+            "brawler": "CROW",
+            "winrate": 54.966887417218544,
+            "ranking": 23
+        },
+        {
+            "brawler": "PIPER",
+            "winrate": 54.761904761904766,
+            "ranking": 24
+        },
+        {
+            "brawler": "JESSIE",
+            "winrate": 54.60992907801418,
+            "ranking": 25
+        },
+        {
+            "brawler": "BROCK",
+            "winrate": 54.285714285714285,
+            "ranking": 26
+        },
+        {
+            "brawler": "AMBER",
+            "winrate": 52.94117647058824,
+            "ranking": 27
+        },
+        {
+            "brawler": "DRACO",
+            "winrate": 52.94117647058824,
+            "ranking": 28
+        },
+        {
+            "brawler": "SPIKE",
+            "winrate": 51.515151515151516,
+            "ranking": 29
+        },
+        {
+            "brawler": "EL PRIMO",
+            "winrate": 51.162790697674424,
+            "ranking": 30
+        },
+        {
+            "brawler": "SHELLY",
+            "winrate": 50.90909090909091,
+            "ranking": 31
+        },
+        {
+            "brawler": "BO",
+            "winrate": 50.68493150684932,
+            "ranking": 32
+        },
+        {
+            "brawler": "FANG",
+            "winrate": 50.56179775280899,
+            "ranking": 33
+        },
+        {
+            "brawler": "RICO",
+            "winrate": 50.37037037037037,
+            "ranking": 34
+        },
+        {
+            "brawler": "GROM",
+            "winrate": 50.0,
+            "ranking": 35
+        },
+        {
+            "brawler": "BYRON",
+            "winrate": 50.0,
+            "ranking": 36
+        },
+        {
+            "brawler": "BUSTER",
+            "winrate": 50.0,
+            "ranking": 37
+        },
+        {
+            "brawler": "SQUEAK",
+            "winrate": 50.0,
+            "ranking": 38
+        },
+        {
+            "brawler": "R-T",
+            "winrate": 50.0,
+            "ranking": 39
+        },
+        {
+            "brawler": "COLT",
+            "winrate": 49.09090909090909,
+            "ranking": 40
+        },
+        {
+            "brawler": "MEG",
+            "winrate": 49.056603773584904,
+            "ranking": 41
+        },
+        {
+            "brawler": "SANDY",
+            "winrate": 49.044585987261144,
+            "ranking": 42
+        },
+        {
+            "brawler": "LEON",
+            "winrate": 48.888888888888886,
+            "ranking": 43
+        },
+        {
+            "brawler": "NITA",
+            "winrate": 48.64864864864865,
+            "ranking": 44
+        },
+        {
+            "brawler": "TARA",
+            "winrate": 48.275862068965516,
+            "ranking": 45
+        },
+        {
+            "brawler": "DYNAMIKE",
+            "winrate": 47.05882352941176,
+            "ranking": 46
+        },
+        {
+            "brawler": "KIT",
+            "winrate": 47.05882352941176,
+            "ranking": 47
+        },
+        {
+            "brawler": "GALE",
+            "winrate": 45.90163934426229,
+            "ranking": 48
+        },
+        {
+            "brawler": "EDGAR",
+            "winrate": 45.21739130434783,
+            "ranking": 49
+        },
+        {
+            "brawler": "CARL",
+            "winrate": 45.0,
+            "ranking": 50
+        },
+        {
+            "brawler": "8-BIT",
+            "winrate": 44.827586206896555,
+            "ranking": 51
+        },
+        {
+            "brawler": "COLETTE",
+            "winrate": 44.680851063829785,
+            "ranking": 52
+        },
+        {
+            "brawler": "MORTIS",
+            "winrate": 44.18604651162791,
+            "ranking": 53
+        },
+        {
+            "brawler": "POCO",
+            "winrate": 41.66666666666667,
+            "ranking": 54
+        },
+        {
+            "brawler": "GENE",
+            "winrate": 41.46341463414634,
+            "ranking": 55
+        },
+        {
+            "brawler": "TICK",
+            "winrate": 40.0,
+            "ranking": 56
+        },
+        {
+            "brawler": "BULL",
+            "winrate": 40.0,
+            "ranking": 57
+        },
+        {
+            "brawler": "LILY",
+            "winrate": 38.88888888888889,
+            "ranking": 58
+        },
+        {
+            "brawler": "STU",
+            "winrate": 38.46153846153847,
+            "ranking": 59
+        },
+        {
+            "brawler": "BELLE",
+            "winrate": 38.46153846153847,
+            "ranking": 60
+        },
+        {
+            "brawler": "EMZ",
+            "winrate": 37.89473684210527,
+            "ranking": 61
+        },
+        {
+            "brawler": "CHESTER",
+            "winrate": 35.294117647058826,
+            "ranking": 62
+        },
+        {
+            "brawler": "ANGELO",
+            "winrate": 33.33333333333333,
+            "ranking": 63
+        },
+        {
+            "brawler": "MAISIE",
+            "winrate": 33.33333333333333,
+            "ranking": 64
+        },
+        {
+            "brawler": "LOLA",
+            "winrate": 33.33333333333333,
+            "ranking": 65
+        },
+        {
+            "brawler": "GUS",
+            "winrate": 33.33333333333333,
+            "ranking": 66
+        },
+        {
+            "brawler": "HANK",
+            "winrate": 33.33333333333333,
+            "ranking": 67
+        },
+        {
+            "brawler": "MAX",
+            "winrate": 29.411764705882355,
+            "ranking": 68
+        },
+        {
+            "brawler": "DARRYL",
+            "winrate": 28.57142857142857,
+            "ranking": 69
+        },
+        {
+            "brawler": "CORDELIUS",
+            "winrate": 28.30188679245283,
+            "ranking": 70
+        },
+        {
+            "brawler": "GRIFF",
+            "winrate": 26.666666666666668,
+            "ranking": 71
+        },
+        {
+            "brawler": "NANI",
+            "winrate": 20.0,
+            "ranking": 72
+        },
+        {
+            "brawler": "PENNY",
+            "winrate": 0.0,
+            "ranking": 73
+        },
+        {
+            "brawler": "SAM",
+            "winrate": 0.0,
+            "ranking": 74
+        },
+        {
+            "brawler": "BONNIE",
+            "winrate": 0.0,
+            "ranking": 75
+        }
+    ],
+    "Out in the Open": [
+        {
+            "brawler": "PAM",
+            "winrate": 100.0,
+            "ranking": 1
+        },
+        {
+            "brawler": "LOU",
+            "winrate": 100.0,
+            "ranking": 2
+        },
+        {
+            "brawler": "HANK",
+            "winrate": 100.0,
+            "ranking": 3
+        },
+        {
+            "brawler": "PEARL",
+            "winrate": 93.33333333333333,
+            "ranking": 4
+        },
+        {
+            "brawler": "MR. P",
+            "winrate": 83.33333333333334,
+            "ranking": 5
+        },
+        {
+            "brawler": "SANDY",
+            "winrate": 71.42857142857143,
+            "ranking": 6
+        },
+        {
+            "brawler": "DARRYL",
+            "winrate": 70.0,
+            "ranking": 7
+        },
+        {
+            "brawler": "SQUEAK",
+            "winrate": 67.85714285714286,
+            "ranking": 8
+        },
+        {
+            "brawler": "CHESTER",
+            "winrate": 67.64705882352942,
+            "ranking": 9
+        },
+        {
+            "brawler": "MEG",
+            "winrate": 65.51724137931035,
+            "ranking": 10
+        },
+        {
+            "brawler": "MICO",
+            "winrate": 63.63636363636363,
+            "ranking": 11
+        },
+        {
+            "brawler": "BIBI",
+            "winrate": 61.53846153846154,
+            "ranking": 12
+        },
+        {
+            "brawler": "POCO",
+            "winrate": 60.0,
+            "ranking": 13
+        },
+        {
+            "brawler": "BO",
+            "winrate": 58.88888888888889,
+            "ranking": 14
+        },
+        {
+            "brawler": "SPROUT",
+            "winrate": 58.333333333333336,
+            "ranking": 15
+        },
+        {
+            "brawler": "LEON",
+            "winrate": 58.06451612903226,
+            "ranking": 16
+        },
+        {
+            "brawler": "KIT",
+            "winrate": 57.49999999999999,
+            "ranking": 17
+        },
+        {
+            "brawler": "EMZ",
+            "winrate": 57.14285714285714,
+            "ranking": 18
+        },
+        {
+            "brawler": "BELLE",
+            "winrate": 56.84210526315789,
+            "ranking": 19
+        },
+        {
+            "brawler": "TICK",
+            "winrate": 56.33802816901409,
+            "ranking": 20
+        },
+        {
+            "brawler": "BROCK",
+            "winrate": 55.55555555555556,
+            "ranking": 21
+        },
+        {
+            "brawler": "CARL",
+            "winrate": 55.55555555555556,
+            "ranking": 22
+        },
+        {
+            "brawler": "ANGELO",
+            "winrate": 54.95495495495496,
+            "ranking": 23
+        },
+        {
+            "brawler": "NITA",
+            "winrate": 54.54545454545454,
+            "ranking": 24
+        },
+        {
+            "brawler": "BUZZ",
+            "winrate": 54.0,
+            "ranking": 25
+        },
+        {
+            "brawler": "DRACO",
+            "winrate": 53.333333333333336,
+            "ranking": 26
+        },
+        {
+            "brawler": "LARRY & LAWRIE",
+            "winrate": 52.94117647058824,
+            "ranking": 27
+        },
+        {
+            "brawler": "EVE",
+            "winrate": 52.94117647058824,
+            "ranking": 28
+        },
+        {
+            "brawler": "LILY",
+            "winrate": 52.63157894736842,
+            "ranking": 29
+        },
+        {
+            "brawler": "SHELLY",
+            "winrate": 52.17391304347826,
+            "ranking": 30
+        },
+        {
+            "brawler": "SURGE",
+            "winrate": 52.0,
+            "ranking": 31
+        },
+        {
+            "brawler": "EDGAR",
+            "winrate": 51.92307692307693,
+            "ranking": 32
+        },
+        {
+            "brawler": "GRIFF",
+            "winrate": 51.724137931034484,
+            "ranking": 33
+        },
+        {
+            "brawler": "BYRON",
+            "winrate": 51.68539325842697,
+            "ranking": 34
+        },
+        {
+            "brawler": "GRAY",
+            "winrate": 51.61290322580645,
+            "ranking": 35
+        },
+        {
+            "brawler": "PIPER",
+            "winrate": 51.28205128205128,
+            "ranking": 36
+        },
+        {
+            "brawler": "COLETTE",
+            "winrate": 50.81967213114754,
+            "ranking": 37
+        },
+        {
+            "brawler": "GROM",
+            "winrate": 50.0,
+            "ranking": 38
+        },
+        {
+            "brawler": "GUS",
+            "winrate": 50.0,
+            "ranking": 39
+        },
+        {
+            "brawler": "BARLEY",
+            "winrate": 50.0,
+            "ranking": 40
+        },
+        {
+            "brawler": "BUSTER",
+            "winrate": 50.0,
+            "ranking": 41
+        },
+        {
+            "brawler": "OTIS",
+            "winrate": 50.0,
+            "ranking": 42
+        },
+        {
+            "brawler": "CORDELIUS",
+            "winrate": 50.0,
+            "ranking": 43
+        },
+        {
+            "brawler": "RUFFS",
+            "winrate": 50.0,
+            "ranking": 44
+        },
+        {
+            "brawler": "GALE",
+            "winrate": 48.78048780487805,
+            "ranking": 45
+        },
+        {
+            "brawler": "FANG",
+            "winrate": 48.484848484848484,
+            "ranking": 46
+        },
+        {
+            "brawler": "MORTIS",
+            "winrate": 47.82608695652174,
+            "ranking": 47
+        },
+        {
+            "brawler": "RICO",
+            "winrate": 47.61904761904761,
+            "ranking": 48
+        },
+        {
+            "brawler": "BERRY",
+            "winrate": 46.15384615384615,
+            "ranking": 49
+        },
+        {
+            "brawler": "FRANK",
+            "winrate": 46.15384615384615,
+            "ranking": 50
+        },
+        {
+            "brawler": "STU",
+            "winrate": 46.15384615384615,
+            "ranking": 51
+        },
+        {
+            "brawler": "MANDY",
+            "winrate": 45.87155963302752,
+            "ranking": 52
+        },
+        {
+            "brawler": "CROW",
+            "winrate": 45.07042253521127,
+            "ranking": 53
+        },
+        {
+            "brawler": "BEA",
+            "winrate": 44.827586206896555,
+            "ranking": 54
+        },
+        {
+            "brawler": "NANI",
+            "winrate": 44.66019417475729,
+            "ranking": 55
+        },
+        {
+            "brawler": "DYNAMIKE",
+            "winrate": 44.21052631578947,
+            "ranking": 56
+        },
+        {
+            "brawler": "COLT",
+            "winrate": 43.75,
+            "ranking": 57
+        },
+        {
+            "brawler": "GENE",
+            "winrate": 43.75,
+            "ranking": 58
+        },
+        {
+            "brawler": "JACKY",
+            "winrate": 42.857142857142854,
+            "ranking": 59
+        },
+        {
+            "brawler": "SPIKE",
+            "winrate": 40.0,
+            "ranking": 60
+        },
+        {
+            "brawler": "AMBER",
+            "winrate": 40.0,
+            "ranking": 61
+        },
+        {
+            "brawler": "BONNIE",
+            "winrate": 40.0,
+            "ranking": 62
+        },
+        {
+            "brawler": "EL PRIMO",
+            "winrate": 38.46153846153847,
+            "ranking": 63
+        },
+        {
+            "brawler": "TARA",
+            "winrate": 37.5,
+            "ranking": 64
+        },
+        {
+            "brawler": "MELODIE",
+            "winrate": 37.5,
+            "ranking": 65
+        },
+        {
+            "brawler": "8-BIT",
+            "winrate": 36.36363636363637,
+            "ranking": 66
+        },
+        {
+            "brawler": "MAX",
+            "winrate": 36.11111111111111,
+            "ranking": 67
+        },
+        {
+            "brawler": "JESSIE",
+            "winrate": 33.91304347826087,
+            "ranking": 68
+        },
+        {
+            "brawler": "R-T",
+            "winrate": 33.33333333333333,
+            "ranking": 69
+        },
+        {
+            "brawler": "MAISIE",
+            "winrate": 23.52941176470588,
+            "ranking": 70
+        },
+        {
+            "brawler": "LOLA",
+            "winrate": 22.22222222222222,
+            "ranking": 71
+        },
+        {
+            "brawler": "PENNY",
+            "winrate": 14.285714285714285,
+            "ranking": 72
+        },
+        {
+            "brawler": "CHARLIE",
+            "winrate": 14.285714285714285,
+            "ranking": 73
+        },
+        {
+            "brawler": "SAM",
+            "winrate": 0.0,
+            "ranking": 74
+        },
+        {
+            "brawler": "JANET",
+            "winrate": 0.0,
+            "ranking": 75
+        },
+        {
+            "brawler": "CHUCK",
+            "winrate": 0.0,
+            "ranking": 76
+        }
+    ],
+    "Dueling Beetles": [
+        {
+            "brawler": "MORTIS",
+            "winrate": 80.0,
+            "ranking": 1
+        },
+        {
+            "brawler": "MEG",
+            "winrate": 77.77777777777779,
+            "ranking": 2
+        },
+        {
+            "brawler": "GRIFF",
+            "winrate": 75.75757575757575,
+            "ranking": 3
+        },
+        {
+            "brawler": "PENNY",
+            "winrate": 75.0,
+            "ranking": 4
+        },
+        {
+            "brawler": "FRANK",
+            "winrate": 67.36842105263158,
+            "ranking": 5
+        },
+        {
+            "brawler": "BYRON",
+            "winrate": 66.66666666666666,
+            "ranking": 6
+        },
+        {
+            "brawler": "BUSTER",
+            "winrate": 65.0,
+            "ranking": 7
+        },
+        {
+            "brawler": "DRACO",
+            "winrate": 64.51612903225806,
+            "ranking": 8
+        },
+        {
+            "brawler": "MICO",
+            "winrate": 64.51612903225806,
+            "ranking": 9
+        },
+        {
+            "brawler": "CHUCK",
+            "winrate": 64.28571428571429,
+            "ranking": 10
+        },
+        {
+            "brawler": "JESSIE",
+            "winrate": 61.111111111111114,
+            "ranking": 11
+        },
+        {
+            "brawler": "POCO",
+            "winrate": 60.60606060606061,
+            "ranking": 12
+        },
+        {
+            "brawler": "BULL",
+            "winrate": 60.0,
+            "ranking": 13
+        },
+        {
+            "brawler": "GALE",
+            "winrate": 59.49367088607595,
+            "ranking": 14
+        },
+        {
+            "brawler": "BUZZ",
+            "winrate": 59.036144578313255,
+            "ranking": 15
+        },
+        {
+            "brawler": "SURGE",
+            "winrate": 57.28155339805825,
+            "ranking": 16
+        },
+        {
+            "brawler": "MAX",
+            "winrate": 57.14285714285714,
+            "ranking": 17
+        },
+        {
+            "brawler": "RICO",
+            "winrate": 55.55555555555556,
+            "ranking": 18
+        },
+        {
+            "brawler": "CHESTER",
+            "winrate": 55.172413793103445,
+            "ranking": 19
+        },
+        {
+            "brawler": "EDGAR",
+            "winrate": 54.666666666666664,
+            "ranking": 20
+        },
+        {
+            "brawler": "TICK",
+            "winrate": 53.246753246753244,
+            "ranking": 21
+        },
+        {
+            "brawler": "SQUEAK",
+            "winrate": 52.94117647058824,
+            "ranking": 22
+        },
+        {
+            "brawler": "BIBI",
+            "winrate": 51.724137931034484,
+            "ranking": 23
+        },
+        {
+            "brawler": "SANDY",
+            "winrate": 51.19047619047619,
+            "ranking": 24
+        },
+        {
+            "brawler": "SHELLY",
+            "winrate": 51.11111111111111,
+            "ranking": 25
+        },
+        {
+            "brawler": "JACKY",
+            "winrate": 50.526315789473685,
+            "ranking": 26
+        },
+        {
+            "brawler": "PIPER",
+            "winrate": 50.0,
+            "ranking": 27
+        },
+        {
+            "brawler": "NITA",
+            "winrate": 50.0,
+            "ranking": 28
+        },
+        {
+            "brawler": "GRAY",
+            "winrate": 50.0,
+            "ranking": 29
+        },
+        {
+            "brawler": "CHARLIE",
+            "winrate": 50.0,
+            "ranking": 30
+        },
+        {
+            "brawler": "BELLE",
+            "winrate": 50.0,
+            "ranking": 31
+        },
+        {
+            "brawler": "GROM",
+            "winrate": 50.0,
+            "ranking": 32
+        },
+        {
+            "brawler": "SAM",
+            "winrate": 50.0,
+            "ranking": 33
+        },
+        {
+            "brawler": "EMZ",
+            "winrate": 48.175182481751825,
+            "ranking": 34
+        },
+        {
+            "brawler": "BERRY",
+            "winrate": 48.05194805194805,
+            "ranking": 35
+        },
+        {
+            "brawler": "DYNAMIKE",
+            "winrate": 47.340425531914896,
+            "ranking": 36
+        },
+        {
+            "brawler": "LARRY & LAWRIE",
+            "winrate": 46.875,
+            "ranking": 37
+        },
+        {
+            "brawler": "BO",
+            "winrate": 46.875,
+            "ranking": 38
+        },
+        {
+            "brawler": "COLETTE",
+            "winrate": 46.55172413793103,
+            "ranking": 39
+        },
+        {
+            "brawler": "EL PRIMO",
+            "winrate": 46.51162790697674,
+            "ranking": 40
+        },
+        {
+            "brawler": "LEON",
+            "winrate": 43.689320388349515,
+            "ranking": 41
+        },
+        {
+            "brawler": "TARA",
+            "winrate": 43.47826086956522,
+            "ranking": 42
+        },
+        {
+            "brawler": "CROW",
+            "winrate": 42.47787610619469,
+            "ranking": 43
+        },
+        {
+            "brawler": "SPIKE",
+            "winrate": 41.81818181818181,
+            "ranking": 44
+        },
+        {
+            "brawler": "MAISIE",
+            "winrate": 41.66666666666667,
+            "ranking": 45
+        },
+        {
+            "brawler": "LILY",
+            "winrate": 40.909090909090914,
+            "ranking": 46
+        },
+        {
+            "brawler": "LOU",
+            "winrate": 40.42553191489361,
+            "ranking": 47
+        },
+        {
+            "brawler": "STU",
+            "winrate": 40.0,
+            "ranking": 48
+        },
+        {
+            "brawler": "GENE",
+            "winrate": 40.0,
+            "ranking": 49
+        },
+        {
+            "brawler": "ROSA",
+            "winrate": 40.0,
+            "ranking": 50
+        },
+        {
+            "brawler": "BROCK",
+            "winrate": 37.254901960784316,
+            "ranking": 51
+        },
+        {
+            "brawler": "PAM",
+            "winrate": 36.36363636363637,
+            "ranking": 52
+        },
+        {
+            "brawler": "DOUG",
+            "winrate": 35.714285714285715,
+            "ranking": 53
+        },
+        {
+            "brawler": "COLT",
+            "winrate": 34.66666666666667,
+            "ranking": 54
+        },
+        {
+            "brawler": "OTIS",
+            "winrate": 33.33333333333333,
+            "ranking": 55
+        },
+        {
+            "brawler": "CORDELIUS",
+            "winrate": 33.33333333333333,
+            "ranking": 56
+        },
+        {
+            "brawler": "CARL",
+            "winrate": 33.33333333333333,
+            "ranking": 57
+        },
+        {
+            "brawler": "ASH",
+            "winrate": 33.33333333333333,
+            "ranking": 58
+        },
+        {
+            "brawler": "SPROUT",
+            "winrate": 33.33333333333333,
+            "ranking": 59
+        },
+        {
+            "brawler": "BARLEY",
+            "winrate": 31.818181818181817,
+            "ranking": 60
+        },
+        {
+            "brawler": "PEARL",
+            "winrate": 31.25,
+            "ranking": 61
+        },
+        {
+            "brawler": "FANG",
+            "winrate": 30.864197530864196,
+            "ranking": 62
+        },
+        {
+            "brawler": "DARRYL",
+            "winrate": 28.57142857142857,
+            "ranking": 63
+        },
+        {
+            "brawler": "AMBER",
+            "winrate": 26.47058823529412,
+            "ranking": 64
+        },
+        {
+            "brawler": "MR. P",
+            "winrate": 25.0,
+            "ranking": 65
+        },
+        {
+            "brawler": "8-BIT",
+            "winrate": 16.666666666666664,
+            "ranking": 66
+        },
+        {
+            "brawler": "MELODIE",
+            "winrate": 0.0,
+            "ranking": 67
+        },
+        {
+            "brawler": "ANGELO",
+            "winrate": 0.0,
+            "ranking": 68
+        },
+        {
+            "brawler": "R-T",
+            "winrate": 0.0,
+            "ranking": 69
+        },
+        {
+            "brawler": "KIT",
+            "winrate": 0.0,
+            "ranking": 70
+        },
+        {
+            "brawler": "BEA",
+            "winrate": 0.0,
+            "ranking": 71
+        },
+        {
+            "brawler": "NANI",
+            "winrate": 0.0,
+            "ranking": 72
+        }
+    ],
+    "Double Swoosh": [
+        {
+            "brawler": "GRAY",
+            "winrate": 100.0,
+            "ranking": 1
+        },
+        {
+            "brawler": "JANET",
+            "winrate": 100.0,
+            "ranking": 2
+        },
+        {
+            "brawler": "BYRON",
+            "winrate": 100.0,
+            "ranking": 3
+        },
+        {
+            "brawler": "HANK",
+            "winrate": 100.0,
+            "ranking": 4
+        },
+        {
+            "brawler": "BUSTER",
+            "winrate": 75.0,
+            "ranking": 5
+        },
+        {
+            "brawler": "MEG",
+            "winrate": 67.64705882352942,
+            "ranking": 6
+        },
+        {
+            "brawler": "ROSA",
+            "winrate": 66.66666666666666,
+            "ranking": 7
+        },
+        {
+            "brawler": "NANI",
+            "winrate": 66.66666666666666,
+            "ranking": 8
+        },
+        {
+            "brawler": "FRANK",
+            "winrate": 64.04494382022472,
+            "ranking": 9
+        },
+        {
+            "brawler": "BO",
+            "winrate": 62.5,
+            "ranking": 10
+        },
+        {
+            "brawler": "8-BIT",
+            "winrate": 62.5,
+            "ranking": 11
+        },
+        {
+            "brawler": "TARA",
+            "winrate": 62.5,
+            "ranking": 12
+        },
+        {
+            "brawler": "STU",
+            "winrate": 62.5,
+            "ranking": 13
+        },
+        {
+            "brawler": "JACKY",
+            "winrate": 61.44578313253012,
+            "ranking": 14
+        },
+        {
+            "brawler": "GENE",
+            "winrate": 60.0,
+            "ranking": 15
+        },
+        {
+            "brawler": "SQUEAK",
+            "winrate": 60.0,
+            "ranking": 16
+        },
+        {
+            "brawler": "NITA",
+            "winrate": 59.523809523809526,
+            "ranking": 17
+        },
+        {
+            "brawler": "BULL",
+            "winrate": 59.09090909090909,
+            "ranking": 18
+        },
+        {
+            "brawler": "EDGAR",
+            "winrate": 58.06451612903226,
+            "ranking": 19
+        },
+        {
+            "brawler": "JESSIE",
+            "winrate": 57.66423357664233,
+            "ranking": 20
+        },
+        {
+            "brawler": "BERRY",
+            "winrate": 57.14285714285714,
+            "ranking": 21
+        },
+        {
+            "brawler": "FANG",
+            "winrate": 56.71641791044776,
+            "ranking": 22
+        },
+        {
+            "brawler": "DOUG",
+            "winrate": 55.00000000000001,
+            "ranking": 23
+        },
+        {
+            "brawler": "BIBI",
+            "winrate": 54.285714285714285,
+            "ranking": 24
+        },
+        {
+            "brawler": "DYNAMIKE",
+            "winrate": 54.20560747663551,
+            "ranking": 25
+        },
+        {
+            "brawler": "SPIKE",
+            "winrate": 53.38983050847458,
+            "ranking": 26
+        },
+        {
+            "brawler": "SURGE",
+            "winrate": 53.284671532846716,
+            "ranking": 27
+        },
+        {
+            "brawler": "EL PRIMO",
+            "winrate": 52.94117647058824,
+            "ranking": 28
+        },
+        {
+            "brawler": "MICO",
+            "winrate": 52.0,
+            "ranking": 29
+        },
+        {
+            "brawler": "DRACO",
+            "winrate": 50.0,
+            "ranking": 30
+        },
+        {
+            "brawler": "KIT",
+            "winrate": 50.0,
+            "ranking": 31
+        },
+        {
+            "brawler": "POCO",
+            "winrate": 50.0,
+            "ranking": 32
+        },
+        {
+            "brawler": "SANDY",
+            "winrate": 49.673202614379086,
+            "ranking": 33
+        },
+        {
+            "brawler": "CHESTER",
+            "winrate": 48.275862068965516,
+            "ranking": 34
+        },
+        {
+            "brawler": "EMZ",
+            "winrate": 48.1203007518797,
+            "ranking": 35
+        },
+        {
+            "brawler": "LEON",
+            "winrate": 47.66839378238342,
+            "ranking": 36
+        },
+        {
+            "brawler": "RICO",
+            "winrate": 47.27272727272727,
+            "ranking": 37
+        },
+        {
+            "brawler": "LILY",
+            "winrate": 47.05882352941176,
+            "ranking": 38
+        },
+        {
+            "brawler": "CROW",
+            "winrate": 45.625,
+            "ranking": 39
+        },
+        {
+            "brawler": "MELODIE",
+            "winrate": 44.44444444444444,
+            "ranking": 40
+        },
+        {
+            "brawler": "SHELLY",
+            "winrate": 43.75,
+            "ranking": 41
+        },
+        {
+            "brawler": "CHARLIE",
+            "winrate": 42.857142857142854,
+            "ranking": 42
+        },
+        {
+            "brawler": "MAX",
+            "winrate": 42.857142857142854,
+            "ranking": 43
+        },
+        {
+            "brawler": "COLETTE",
+            "winrate": 42.3728813559322,
+            "ranking": 44
+        },
+        {
+            "brawler": "PIPER",
+            "winrate": 41.935483870967744,
+            "ranking": 45
+        },
+        {
+            "brawler": "COLT",
+            "winrate": 41.23711340206185,
+            "ranking": 46
+        },
+        {
+            "brawler": "BUZZ",
+            "winrate": 40.19607843137255,
+            "ranking": 47
+        },
+        {
+            "brawler": "GRIFF",
+            "winrate": 39.53488372093023,
+            "ranking": 48
+        },
+        {
+            "brawler": "CORDELIUS",
+            "winrate": 38.55421686746988,
+            "ranking": 49
+        },
+        {
+            "brawler": "BROCK",
+            "winrate": 38.297872340425535,
+            "ranking": 50
+        },
+        {
+            "brawler": "GALE",
+            "winrate": 38.18181818181819,
+            "ranking": 51
+        },
+        {
+            "brawler": "PEARL",
+            "winrate": 37.03703703703704,
+            "ranking": 52
+        },
+        {
+            "brawler": "MORTIS",
+            "winrate": 36.36363636363637,
+            "ranking": 53
+        },
+        {
+            "brawler": "TICK",
+            "winrate": 30.76923076923077,
+            "ranking": 54
+        },
+        {
+            "brawler": "DARRYL",
+            "winrate": 30.0,
+            "ranking": 55
+        },
+        {
+            "brawler": "LOU",
+            "winrate": 30.0,
+            "ranking": 56
+        },
+        {
+            "brawler": "AMBER",
+            "winrate": 29.629629629629626,
+            "ranking": 57
+        },
+        {
+            "brawler": "BARLEY",
+            "winrate": 25.0,
+            "ranking": 58
+        },
+        {
+            "brawler": "ASH",
+            "winrate": 20.0,
+            "ranking": 59
+        },
+        {
+            "brawler": "ANGELO",
+            "winrate": 20.0,
+            "ranking": 60
+        },
+        {
+            "brawler": "LOLA",
+            "winrate": 0.0,
+            "ranking": 61
+        },
+        {
+            "brawler": "CHUCK",
+            "winrate": 0.0,
+            "ranking": 62
+        },
+        {
+            "brawler": "BEA",
+            "winrate": 0.0,
+            "ranking": 63
+        },
+        {
+            "brawler": "BONNIE",
+            "winrate": 0.0,
+            "ranking": 64
+        },
+        {
+            "brawler": "BELLE",
+            "winrate": 0.0,
+            "ranking": 65
+        },
+        {
+            "brawler": "LARRY & LAWRIE",
+            "winrate": 0.0,
+            "ranking": 66
+        },
+        {
+            "brawler": "SPROUT",
+            "winrate": 0.0,
+            "ranking": 67
+        },
+        {
+            "brawler": "CARL",
+            "winrate": 0.0,
+            "ranking": 68
+        },
+        {
+            "brawler": "WILLOW",
+            "winrate": 0.0,
+            "ranking": 69
+        }
+    ],
+    "Safe Zone": [
+        {
+            "brawler": "JACKY",
+            "winrate": 100.0,
+            "ranking": 1
+        },
+        {
+            "brawler": "BEA",
+            "winrate": 100.0,
+            "ranking": 2
+        },
+        {
+            "brawler": "KIT",
+            "winrate": 88.88888888888889,
+            "ranking": 3
+        },
+        {
+            "brawler": "CHESTER",
+            "winrate": 83.33333333333334,
+            "ranking": 4
+        },
+        {
+            "brawler": "DRACO",
+            "winrate": 76.92307692307693,
+            "ranking": 5
+        },
+        {
+            "brawler": "AMBER",
+            "winrate": 66.66666666666666,
+            "ranking": 6
+        },
+        {
+            "brawler": "WILLOW",
+            "winrate": 66.66666666666666,
+            "ranking": 7
+        },
+        {
+            "brawler": "BONNIE",
+            "winrate": 66.66666666666666,
+            "ranking": 8
+        },
+        {
+            "brawler": "CHUCK",
+            "winrate": 65.85365853658537,
+            "ranking": 9
+        },
+        {
+            "brawler": "EMZ",
+            "winrate": 63.29113924050633,
+            "ranking": 10
+        },
+        {
+            "brawler": "JESSIE",
+            "winrate": 62.71186440677966,
+            "ranking": 11
+        },
+        {
+            "brawler": "CARL",
+            "winrate": 62.5,
+            "ranking": 12
+        },
+        {
+            "brawler": "SAM",
+            "winrate": 60.0,
+            "ranking": 13
+        },
+        {
+            "brawler": "LOLA",
+            "winrate": 60.0,
+            "ranking": 14
+        },
+        {
+            "brawler": "ANGELO",
+            "winrate": 59.183673469387756,
+            "ranking": 15
+        },
+        {
+            "brawler": "BO",
+            "winrate": 58.730158730158735,
+            "ranking": 16
+        },
+        {
+            "brawler": "8-BIT",
+            "winrate": 58.620689655172406,
+            "ranking": 17
+        },
+        {
+            "brawler": "BULL",
+            "winrate": 57.89473684210527,
+            "ranking": 18
+        },
+        {
+            "brawler": "BUZZ",
+            "winrate": 55.769230769230774,
+            "ranking": 19
+        },
+        {
+            "brawler": "NITA",
+            "winrate": 54.644808743169406,
+            "ranking": 20
+        },
+        {
+            "brawler": "EDGAR",
+            "winrate": 54.395604395604394,
+            "ranking": 21
+        },
+        {
+            "brawler": "COLT",
+            "winrate": 54.379562043795616,
+            "ranking": 22
+        },
+        {
+            "brawler": "CORDELIUS",
+            "winrate": 53.84615384615385,
+            "ranking": 23
+        },
+        {
+            "brawler": "CROW",
+            "winrate": 53.77777777777778,
+            "ranking": 24
+        },
+        {
+            "brawler": "MICO",
+            "winrate": 52.94117647058824,
+            "ranking": 25
+        },
+        {
+            "brawler": "FANG",
+            "winrate": 52.83018867924528,
+            "ranking": 26
+        },
+        {
+            "brawler": "BROCK",
+            "winrate": 50.79365079365079,
+            "ranking": 27
+        },
+        {
+            "brawler": "COLETTE",
+            "winrate": 50.0,
+            "ranking": 28
+        },
+        {
+            "brawler": "BYRON",
+            "winrate": 50.0,
+            "ranking": 29
+        },
+        {
+            "brawler": "POCO",
+            "winrate": 50.0,
+            "ranking": 30
+        },
+        {
+            "brawler": "LILY",
+            "winrate": 50.0,
+            "ranking": 31
+        },
+        {
+            "brawler": "MANDY",
+            "winrate": 49.122807017543856,
+            "ranking": 32
+        },
+        {
+            "brawler": "RICO",
+            "winrate": 48.888888888888886,
+            "ranking": 33
+        },
+        {
+            "brawler": "SANDY",
+            "winrate": 48.38709677419355,
+            "ranking": 34
+        },
+        {
+            "brawler": "GALE",
+            "winrate": 48.275862068965516,
+            "ranking": 35
+        },
+        {
+            "brawler": "SURGE",
+            "winrate": 48.0,
+            "ranking": 36
+        },
+        {
+            "brawler": "MELODIE",
+            "winrate": 48.0,
+            "ranking": 37
+        },
+        {
+            "brawler": "GRIFF",
+            "winrate": 47.22222222222222,
+            "ranking": 38
+        },
+        {
+            "brawler": "SHELLY",
+            "winrate": 45.83333333333333,
+            "ranking": 39
+        },
+        {
+            "brawler": "GROM",
+            "winrate": 45.45454545454545,
+            "ranking": 40
+        },
+        {
+            "brawler": "SQUEAK",
+            "winrate": 44.44444444444444,
+            "ranking": 41
+        },
+        {
+            "brawler": "PENNY",
+            "winrate": 43.75,
+            "ranking": 42
+        },
+        {
+            "brawler": "PIPER",
+            "winrate": 43.67088607594937,
+            "ranking": 43
+        },
+        {
+            "brawler": "SPIKE",
+            "winrate": 43.11926605504588,
+            "ranking": 44
+        },
+        {
+            "brawler": "BERRY",
+            "winrate": 42.857142857142854,
+            "ranking": 45
+        },
+        {
+            "brawler": "MAX",
+            "winrate": 42.857142857142854,
+            "ranking": 46
+        },
+        {
+            "brawler": "CHARLIE",
+            "winrate": 42.857142857142854,
+            "ranking": 47
+        },
+        {
+            "brawler": "MEG",
+            "winrate": 42.42424242424242,
+            "ranking": 48
+        },
+        {
+            "brawler": "BIBI",
+            "winrate": 42.10526315789473,
+            "ranking": 49
+        },
+        {
+            "brawler": "BARLEY",
+            "winrate": 41.66666666666667,
+            "ranking": 50
+        },
+        {
+            "brawler": "FRANK",
+            "winrate": 41.66666666666667,
+            "ranking": 51
+        },
+        {
+            "brawler": "SPROUT",
+            "winrate": 41.17647058823529,
+            "ranking": 52
+        },
+        {
+            "brawler": "EL PRIMO",
+            "winrate": 40.816326530612244,
+            "ranking": 53
+        },
+        {
+            "brawler": "LEON",
+            "winrate": 40.52287581699346,
+            "ranking": 54
+        },
+        {
+            "brawler": "LOU",
+            "winrate": 40.0,
+            "ranking": 55
+        },
+        {
+            "brawler": "TARA",
+            "winrate": 40.0,
+            "ranking": 56
+        },
+        {
+            "brawler": "DYNAMIKE",
+            "winrate": 36.95652173913043,
+            "ranking": 57
+        },
+        {
+            "brawler": "TICK",
+            "winrate": 33.33333333333333,
+            "ranking": 58
+        },
+        {
+            "brawler": "MR. P",
+            "winrate": 33.33333333333333,
+            "ranking": 59
+        },
+        {
+            "brawler": "EVE",
+            "winrate": 33.33333333333333,
+            "ranking": 60
+        },
+        {
+            "brawler": "OTIS",
+            "winrate": 33.33333333333333,
+            "ranking": 61
+        },
+        {
+            "brawler": "MAISIE",
+            "winrate": 33.33333333333333,
+            "ranking": 62
+        },
+        {
+            "brawler": "GENE",
+            "winrate": 33.33333333333333,
+            "ranking": 63
+        },
+        {
+            "brawler": "NANI",
+            "winrate": 28.57142857142857,
+            "ranking": 64
+        },
+        {
+            "brawler": "BELLE",
+            "winrate": 25.0,
+            "ranking": 65
+        },
+        {
+            "brawler": "PEARL",
+            "winrate": 25.0,
+            "ranking": 66
+        },
+        {
+            "brawler": "DARRYL",
+            "winrate": 20.0,
+            "ranking": 67
+        },
+        {
+            "brawler": "STU",
+            "winrate": 20.0,
+            "ranking": 68
+        },
+        {
+            "brawler": "LARRY & LAWRIE",
+            "winrate": 18.181818181818183,
+            "ranking": 69
+        },
+        {
+            "brawler": "MORTIS",
+            "winrate": 0.0,
+            "ranking": 70
+        }
+    ],
+    "Hideout": [
+        {
+            "brawler": "HANK",
+            "winrate": 100.0,
+            "ranking": 1
+        },
+        {
+            "brawler": "BULL",
+            "winrate": 100.0,
+            "ranking": 2
+        },
+        {
+            "brawler": "MR. P",
+            "winrate": 73.91304347826086,
+            "ranking": 3
+        },
+        {
+            "brawler": "PEARL",
+            "winrate": 73.68421052631578,
+            "ranking": 4
+        },
+        {
+            "brawler": "MICO",
+            "winrate": 67.3469387755102,
+            "ranking": 5
+        },
+        {
+            "brawler": "BEA",
+            "winrate": 66.66666666666666,
+            "ranking": 6
+        },
+        {
+            "brawler": "GROM",
+            "winrate": 66.66666666666666,
+            "ranking": 7
+        },
+        {
+            "brawler": "ROSA",
+            "winrate": 66.66666666666666,
+            "ranking": 8
+        },
+        {
+            "brawler": "CHARLIE",
+            "winrate": 66.66666666666666,
+            "ranking": 9
+        },
+        {
+            "brawler": "MAISIE",
+            "winrate": 63.63636363636363,
+            "ranking": 10
+        },
+        {
+            "brawler": "STU",
+            "winrate": 63.1578947368421,
+            "ranking": 11
+        },
+        {
+            "brawler": "LOU",
+            "winrate": 63.1578947368421,
+            "ranking": 12
+        },
+        {
+            "brawler": "MORTIS",
+            "winrate": 62.857142857142854,
+            "ranking": 13
+        },
+        {
+            "brawler": "SHELLY",
+            "winrate": 62.5,
+            "ranking": 14
+        },
+        {
+            "brawler": "POCO",
+            "winrate": 62.5,
+            "ranking": 15
+        },
+        {
+            "brawler": "BO",
+            "winrate": 60.0,
+            "ranking": 16
+        },
+        {
+            "brawler": "CARL",
+            "winrate": 60.0,
+            "ranking": 17
+        },
+        {
+            "brawler": "SPROUT",
+            "winrate": 57.89473684210527,
+            "ranking": 18
+        },
+        {
+            "brawler": "CROW",
+            "winrate": 57.03703703703704,
+            "ranking": 19
+        },
+        {
+            "brawler": "BONNIE",
+            "winrate": 54.54545454545454,
+            "ranking": 20
+        },
+        {
+            "brawler": "BROCK",
+            "winrate": 53.77777777777778,
+            "ranking": 21
+        },
+        {
+            "brawler": "FANG",
+            "winrate": 53.76344086021505,
+            "ranking": 22
+        },
+        {
+            "brawler": "LARRY & LAWRIE",
+            "winrate": 53.70370370370371,
+            "ranking": 23
+        },
+        {
+            "brawler": "BIBI",
+            "winrate": 52.94117647058824,
+            "ranking": 24
+        },
+        {
+            "brawler": "GRAY",
+            "winrate": 52.63157894736842,
+            "ranking": 25
+        },
+        {
+            "brawler": "EDGAR",
+            "winrate": 52.27272727272727,
+            "ranking": 26
+        },
+        {
+            "brawler": "LILY",
+            "winrate": 52.17391304347826,
+            "ranking": 27
+        },
+        {
+            "brawler": "NANI",
+            "winrate": 51.85185185185185,
+            "ranking": 28
+        },
+        {
+            "brawler": "LEON",
+            "winrate": 51.2396694214876,
+            "ranking": 29
+        },
+        {
+            "brawler": "RICO",
+            "winrate": 50.877192982456144,
+            "ranking": 30
+        },
+        {
+            "brawler": "GENE",
+            "winrate": 50.877192982456144,
+            "ranking": 31
+        },
+        {
+            "brawler": "DYNAMIKE",
+            "winrate": 50.70422535211267,
+            "ranking": 32
+        },
+        {
+            "brawler": "COLT",
+            "winrate": 50.62240663900415,
+            "ranking": 33
+        },
+        {
+            "brawler": "PIPER",
+            "winrate": 50.56179775280899,
+            "ranking": 34
+        },
+        {
+            "brawler": "BELLE",
+            "winrate": 50.43478260869565,
+            "ranking": 35
+        },
+        {
+            "brawler": "SPIKE",
+            "winrate": 50.35460992907801,
+            "ranking": 36
+        },
+        {
+            "brawler": "GRIFF",
+            "winrate": 50.0,
+            "ranking": 37
+        },
+        {
+            "brawler": "CHUCK",
+            "winrate": 50.0,
+            "ranking": 38
+        },
+        {
+            "brawler": "TARA",
+            "winrate": 50.0,
+            "ranking": 39
+        },
+        {
+            "brawler": "BARLEY",
+            "winrate": 50.0,
+            "ranking": 40
+        },
+        {
+            "brawler": "DRACO",
+            "winrate": 50.0,
+            "ranking": 41
+        },
+        {
+            "brawler": "EVE",
+            "winrate": 50.0,
+            "ranking": 42
+        },
+        {
+            "brawler": "BYRON",
+            "winrate": 48.68421052631579,
+            "ranking": 43
+        },
+        {
+            "brawler": "TICK",
+            "winrate": 47.14285714285714,
+            "ranking": 44
+        },
+        {
+            "brawler": "FRANK",
+            "winrate": 46.51162790697674,
+            "ranking": 45
+        },
+        {
+            "brawler": "SURGE",
+            "winrate": 45.94594594594595,
+            "ranking": 46
+        },
+        {
+            "brawler": "BUZZ",
+            "winrate": 45.45454545454545,
+            "ranking": 47
+        },
+        {
+            "brawler": "MAX",
+            "winrate": 45.0,
+            "ranking": 48
+        },
+        {
+            "brawler": "8-BIT",
+            "winrate": 44.44444444444444,
+            "ranking": 49
+        },
+        {
+            "brawler": "CHESTER",
+            "winrate": 44.44444444444444,
+            "ranking": 50
+        },
+        {
+            "brawler": "MANDY",
+            "winrate": 43.75,
+            "ranking": 51
+        },
+        {
+            "brawler": "MEG",
+            "winrate": 43.47826086956522,
+            "ranking": 52
+        },
+        {
+            "brawler": "GALE",
+            "winrate": 43.333333333333336,
+            "ranking": 53
+        },
+        {
+            "brawler": "COLETTE",
+            "winrate": 43.103448275862064,
+            "ranking": 54
+        },
+        {
+            "brawler": "ANGELO",
+            "winrate": 41.66666666666667,
+            "ranking": 55
+        },
+        {
+            "brawler": "AMBER",
+            "winrate": 38.095238095238095,
+            "ranking": 56
+        },
+        {
+            "brawler": "JESSIE",
+            "winrate": 37.391304347826086,
+            "ranking": 57
+        },
+        {
+            "brawler": "CORDELIUS",
+            "winrate": 35.714285714285715,
+            "ranking": 58
+        },
+        {
+            "brawler": "EMZ",
+            "winrate": 35.714285714285715,
+            "ranking": 59
+        },
+        {
+            "brawler": "MELODIE",
+            "winrate": 35.714285714285715,
+            "ranking": 60
+        },
+        {
+            "brawler": "SANDY",
+            "winrate": 35.483870967741936,
+            "ranking": 61
+        },
+        {
+            "brawler": "WILLOW",
+            "winrate": 35.0,
+            "ranking": 62
+        },
+        {
+            "brawler": "JANET",
+            "winrate": 33.33333333333333,
+            "ranking": 63
+        },
+        {
+            "brawler": "RUFFS",
+            "winrate": 33.33333333333333,
+            "ranking": 64
+        },
+        {
+            "brawler": "BERRY",
+            "winrate": 32.25806451612903,
+            "ranking": 65
+        },
+        {
+            "brawler": "NITA",
+            "winrate": 30.76923076923077,
+            "ranking": 66
+        },
+        {
+            "brawler": "SQUEAK",
+            "winrate": 30.0,
+            "ranking": 67
+        },
+        {
+            "brawler": "EL PRIMO",
+            "winrate": 30.0,
+            "ranking": 68
+        },
+        {
+            "brawler": "R-T",
+            "winrate": 25.0,
+            "ranking": 69
+        },
+        {
+            "brawler": "JACKY",
+            "winrate": 23.076923076923077,
+            "ranking": 70
+        },
+        {
+            "brawler": "DARRYL",
+            "winrate": 16.666666666666664,
+            "ranking": 71
+        },
+        {
+            "brawler": "KIT",
+            "winrate": 6.666666666666667,
+            "ranking": 72
+        },
+        {
+            "brawler": "OTIS",
+            "winrate": 0.0,
+            "ranking": 73
+        },
+        {
+            "brawler": "GUS",
+            "winrate": 0.0,
+            "ranking": 74
+        },
+        {
+            "brawler": "BUSTER",
+            "winrate": 0.0,
+            "ranking": 75
+        }
+    ],
+    "Undermine": [
+        {
+            "brawler": "CHUCK",
+            "winrate": 100.0,
+            "ranking": 1
+        },
+        {
+            "brawler": "CARL",
+            "winrate": 100.0,
+            "ranking": 2
+        },
+        {
+            "brawler": "BEA",
+            "winrate": 88.88888888888889,
+            "ranking": 3
+        },
+        {
+            "brawler": "BONNIE",
+            "winrate": 85.71428571428571,
+            "ranking": 4
+        },
+        {
+            "brawler": "OTIS",
+            "winrate": 72.72727272727273,
+            "ranking": 5
+        },
+        {
+            "brawler": "PEARL",
+            "winrate": 71.42857142857143,
+            "ranking": 6
+        },
+        {
+            "brawler": "BARLEY",
+            "winrate": 66.66666666666666,
+            "ranking": 7
+        },
+        {
+            "brawler": "BELLE",
+            "winrate": 66.66666666666666,
+            "ranking": 8
+        },
+        {
+            "brawler": "BUSTER",
+            "winrate": 64.28571428571429,
+            "ranking": 9
+        },
+        {
+            "brawler": "ROSA",
+            "winrate": 64.28571428571429,
+            "ranking": 10
+        },
+        {
+            "brawler": "MEG",
+            "winrate": 61.81818181818181,
+            "ranking": 11
+        },
+        {
+            "brawler": "TARA",
+            "winrate": 61.53846153846154,
+            "ranking": 12
+        },
+        {
+            "brawler": "MAISIE",
+            "winrate": 61.53846153846154,
+            "ranking": 13
+        },
+        {
+            "brawler": "JESSIE",
+            "winrate": 60.15625,
+            "ranking": 14
+        },
+        {
+            "brawler": "MR. P",
+            "winrate": 60.0,
+            "ranking": 15
+        },
+        {
+            "brawler": "GUS",
+            "winrate": 60.0,
+            "ranking": 16
+        },
+        {
+            "brawler": "FANG",
+            "winrate": 57.291666666666664,
+            "ranking": 17
+        },
+        {
+            "brawler": "SURGE",
+            "winrate": 56.88073394495413,
+            "ranking": 18
+        },
+        {
+            "brawler": "MORTIS",
+            "winrate": 56.52173913043478,
+            "ranking": 19
+        },
+        {
+            "brawler": "CROW",
+            "winrate": 56.4625850340136,
+            "ranking": 20
+        },
+        {
+            "brawler": "RICO",
+            "winrate": 56.43564356435643,
+            "ranking": 21
+        },
+        {
+            "brawler": "GRIFF",
+            "winrate": 55.769230769230774,
+            "ranking": 22
+        },
+        {
+            "brawler": "SAM",
+            "winrate": 55.55555555555556,
+            "ranking": 23
+        },
+        {
+            "brawler": "CHESTER",
+            "winrate": 54.6875,
+            "ranking": 24
+        },
+        {
+            "brawler": "GALE",
+            "winrate": 54.54545454545454,
+            "ranking": 25
+        },
+        {
+            "brawler": "LILY",
+            "winrate": 54.54545454545454,
+            "ranking": 26
+        },
+        {
+            "brawler": "SANDY",
+            "winrate": 54.36241610738255,
+            "ranking": 27
+        },
+        {
+            "brawler": "SHELLY",
+            "winrate": 54.347826086956516,
+            "ranking": 28
+        },
+        {
+            "brawler": "LEON",
+            "winrate": 52.0,
+            "ranking": 29
+        },
+        {
+            "brawler": "FRANK",
+            "winrate": 51.724137931034484,
+            "ranking": 30
+        },
+        {
+            "brawler": "ASH",
+            "winrate": 50.0,
+            "ranking": 31
+        },
+        {
+            "brawler": "MANDY",
+            "winrate": 50.0,
+            "ranking": 32
+        },
+        {
+            "brawler": "JANET",
+            "winrate": 50.0,
+            "ranking": 33
+        },
+        {
+            "brawler": "BO",
+            "winrate": 49.382716049382715,
+            "ranking": 34
+        },
+        {
+            "brawler": "SPIKE",
+            "winrate": 49.2063492063492,
+            "ranking": 35
+        },
+        {
+            "brawler": "JACKY",
+            "winrate": 48.93617021276596,
+            "ranking": 36
+        },
+        {
+            "brawler": "BERRY",
+            "winrate": 48.148148148148145,
+            "ranking": 37
+        },
+        {
+            "brawler": "NITA",
+            "winrate": 48.0,
+            "ranking": 38
+        },
+        {
+            "brawler": "POCO",
+            "winrate": 47.82608695652174,
+            "ranking": 39
+        },
+        {
+            "brawler": "BIBI",
+            "winrate": 47.61904761904761,
+            "ranking": 40
+        },
+        {
+            "brawler": "EDGAR",
+            "winrate": 47.41379310344828,
+            "ranking": 41
+        },
+        {
+            "brawler": "COLETTE",
+            "winrate": 47.14285714285714,
+            "ranking": 42
+        },
+        {
+            "brawler": "EMZ",
+            "winrate": 45.614035087719294,
+            "ranking": 43
+        },
+        {
+            "brawler": "COLT",
+            "winrate": 44.62809917355372,
+            "ranking": 44
+        },
+        {
+            "brawler": "BYRON",
+            "winrate": 44.44444444444444,
+            "ranking": 45
+        },
+        {
+            "brawler": "BUZZ",
+            "winrate": 44.44444444444444,
+            "ranking": 46
+        },
+        {
+            "brawler": "MELODIE",
+            "winrate": 44.44444444444444,
+            "ranking": 47
+        },
+        {
+            "brawler": "DRACO",
+            "winrate": 44.44444444444444,
+            "ranking": 48
+        },
+        {
+            "brawler": "PENNY",
+            "winrate": 44.44444444444444,
+            "ranking": 49
+        },
+        {
+            "brawler": "GENE",
+            "winrate": 44.18604651162791,
+            "ranking": 50
+        },
+        {
+            "brawler": "AMBER",
+            "winrate": 43.75,
+            "ranking": 51
+        },
+        {
+            "brawler": "BROCK",
+            "winrate": 43.63636363636363,
+            "ranking": 52
+        },
+        {
+            "brawler": "LOU",
+            "winrate": 42.10526315789473,
+            "ranking": 53
+        },
+        {
+            "brawler": "8-BIT",
+            "winrate": 41.66666666666667,
+            "ranking": 54
+        },
+        {
+            "brawler": "DYNAMIKE",
+            "winrate": 41.46341463414634,
+            "ranking": 55
+        },
+        {
+            "brawler": "MAX",
+            "winrate": 41.46341463414634,
+            "ranking": 56
+        },
+        {
+            "brawler": "KIT",
+            "winrate": 41.17647058823529,
+            "ranking": 57
+        },
+        {
+            "brawler": "MICO",
+            "winrate": 40.909090909090914,
+            "ranking": 58
+        },
+        {
+            "brawler": "SQUEAK",
+            "winrate": 40.0,
+            "ranking": 59
+        },
+        {
+            "brawler": "CORDELIUS",
+            "winrate": 38.666666666666664,
+            "ranking": 60
+        },
+        {
+            "brawler": "PIPER",
+            "winrate": 35.59322033898305,
+            "ranking": 61
+        },
+        {
+            "brawler": "CHARLIE",
+            "winrate": 35.294117647058826,
+            "ranking": 62
+        },
+        {
+            "brawler": "TICK",
+            "winrate": 35.13513513513514,
+            "ranking": 63
+        },
+        {
+            "brawler": "STU",
+            "winrate": 33.33333333333333,
+            "ranking": 64
+        },
+        {
+            "brawler": "LARRY & LAWRIE",
+            "winrate": 33.33333333333333,
+            "ranking": 65
+        },
+        {
+            "brawler": "ANGELO",
+            "winrate": 31.25,
+            "ranking": 66
+        },
+        {
+            "brawler": "BULL",
+            "winrate": 28.57142857142857,
+            "ranking": 67
+        },
+        {
+            "brawler": "DARRYL",
+            "winrate": 22.22222222222222,
+            "ranking": 68
+        },
+        {
+            "brawler": "EL PRIMO",
+            "winrate": 18.181818181818183,
+            "ranking": 69
+        },
+        {
+            "brawler": "WILLOW",
+            "winrate": 0.0,
+            "ranking": 70
+        },
+        {
+            "brawler": "DOUG",
+            "winrate": 0.0,
+            "ranking": 71
+        },
+        {
+            "brawler": "NANI",
+            "winrate": 0.0,
+            "ranking": 72
+        }
+    ],
+    "Shooting Star": [
+        {
+            "brawler": "JACKY",
+            "winrate": 100.0,
+            "ranking": 1
+        },
+        {
+            "brawler": "TARA",
+            "winrate": 100.0,
+            "ranking": 2
+        },
+        {
+            "brawler": "MELODIE",
+            "winrate": 75.0,
+            "ranking": 3
+        },
+        {
+            "brawler": "GROM",
+            "winrate": 72.91666666666666,
+            "ranking": 4
+        },
+        {
+            "brawler": "EL PRIMO",
+            "winrate": 66.66666666666666,
+            "ranking": 5
+        },
+        {
+            "brawler": "PEARL",
+            "winrate": 65.0,
+            "ranking": 6
+        },
+        {
+            "brawler": "R-T",
+            "winrate": 62.5,
+            "ranking": 7
+        },
+        {
+            "brawler": "CHESTER",
+            "winrate": 62.16216216216216,
+            "ranking": 8
+        },
+        {
+            "brawler": "GUS",
+            "winrate": 61.111111111111114,
+            "ranking": 9
+        },
+        {
+            "brawler": "BUSTER",
+            "winrate": 60.0,
+            "ranking": 10
+        },
+        {
+            "brawler": "SANDY",
+            "winrate": 59.375,
+            "ranking": 11
+        },
+        {
+            "brawler": "MAISIE",
+            "winrate": 58.82352941176471,
+            "ranking": 12
+        },
+        {
+            "brawler": "ANGELO",
+            "winrate": 58.490566037735846,
+            "ranking": 13
+        },
+        {
+            "brawler": "BROCK",
+            "winrate": 57.74647887323944,
+            "ranking": 14
+        },
+        {
+            "brawler": "BYRON",
+            "winrate": 57.14285714285714,
+            "ranking": 15
+        },
+        {
+            "brawler": "CARL",
+            "winrate": 57.14285714285714,
+            "ranking": 16
+        },
+        {
+            "brawler": "BERRY",
+            "winrate": 57.14285714285714,
+            "ranking": 17
+        },
+        {
+            "brawler": "BONNIE",
+            "winrate": 57.14285714285714,
+            "ranking": 18
+        },
+        {
+            "brawler": "MANDY",
+            "winrate": 56.57894736842105,
+            "ranking": 19
+        },
+        {
+            "brawler": "BO",
+            "winrate": 56.00000000000001,
+            "ranking": 20
+        },
+        {
+            "brawler": "KIT",
+            "winrate": 56.00000000000001,
+            "ranking": 21
+        },
+        {
+            "brawler": "SPROUT",
+            "winrate": 55.55555555555556,
+            "ranking": 22
+        },
+        {
+            "brawler": "MICO",
+            "winrate": 55.55555555555556,
+            "ranking": 23
+        },
+        {
+            "brawler": "NANI",
+            "winrate": 55.140186915887845,
+            "ranking": 24
+        },
+        {
+            "brawler": "CROW",
+            "winrate": 55.072463768115945,
+            "ranking": 25
+        },
+        {
+            "brawler": "PIPER",
+            "winrate": 53.90625,
+            "ranking": 26
+        },
+        {
+            "brawler": "FANG",
+            "winrate": 53.191489361702125,
+            "ranking": 27
+        },
+        {
+            "brawler": "BELLE",
+            "winrate": 53.153153153153156,
+            "ranking": 28
+        },
+        {
+            "brawler": "TICK",
+            "winrate": 52.0,
+            "ranking": 29
+        },
+        {
+            "brawler": "EDGAR",
+            "winrate": 51.69491525423729,
+            "ranking": 30
+        },
+        {
+            "brawler": "BEA",
+            "winrate": 51.06382978723404,
+            "ranking": 31
+        },
+        {
+            "brawler": "BIBI",
+            "winrate": 50.0,
+            "ranking": 32
+        },
+        {
+            "brawler": "JANET",
+            "winrate": 50.0,
+            "ranking": 33
+        },
+        {
+            "brawler": "ROSA",
+            "winrate": 50.0,
+            "ranking": 34
+        },
+        {
+            "brawler": "COLT",
+            "winrate": 48.837209302325576,
+            "ranking": 35
+        },
+        {
+            "brawler": "BUZZ",
+            "winrate": 48.717948717948715,
+            "ranking": 36
+        },
+        {
+            "brawler": "LEON",
+            "winrate": 48.1651376146789,
+            "ranking": 37
+        },
+        {
+            "brawler": "GRAY",
+            "winrate": 47.61904761904761,
+            "ranking": 38
+        },
+        {
+            "brawler": "GENE",
+            "winrate": 47.540983606557376,
+            "ranking": 39
+        },
+        {
+            "brawler": "DYNAMIKE",
+            "winrate": 47.05882352941176,
+            "ranking": 40
+        },
+        {
+            "brawler": "AMBER",
+            "winrate": 46.15384615384615,
+            "ranking": 41
+        },
+        {
+            "brawler": "FRANK",
+            "winrate": 45.94594594594595,
+            "ranking": 42
+        },
+        {
+            "brawler": "LARRY & LAWRIE",
+            "winrate": 45.714285714285715,
+            "ranking": 43
+        },
+        {
+            "brawler": "MEG",
+            "winrate": 45.45454545454545,
+            "ranking": 44
+        },
+        {
+            "brawler": "SURGE",
+            "winrate": 45.23809523809524,
+            "ranking": 45
+        },
+        {
+            "brawler": "SPIKE",
+            "winrate": 44.44444444444444,
+            "ranking": 46
+        },
+        {
+            "brawler": "8-BIT",
+            "winrate": 44.44444444444444,
+            "ranking": 47
+        },
+        {
+            "brawler": "MR. P",
+            "winrate": 44.0,
+            "ranking": 48
+        },
+        {
+            "brawler": "JESSIE",
+            "winrate": 43.47826086956522,
+            "ranking": 49
+        },
+        {
+            "brawler": "SHELLY",
+            "winrate": 43.47826086956522,
+            "ranking": 50
+        },
+        {
+            "brawler": "RICO",
+            "winrate": 43.28358208955223,
+            "ranking": 51
+        },
+        {
+            "brawler": "LILY",
+            "winrate": 42.857142857142854,
+            "ranking": 52
+        },
+        {
+            "brawler": "LOU",
+            "winrate": 40.0,
+            "ranking": 53
+        },
+        {
+            "brawler": "EVE",
+            "winrate": 40.0,
+            "ranking": 54
+        },
+        {
+            "brawler": "STU",
+            "winrate": 40.0,
+            "ranking": 55
+        },
+        {
+            "brawler": "NITA",
+            "winrate": 38.46153846153847,
+            "ranking": 56
+        },
+        {
+            "brawler": "COLETTE",
+            "winrate": 38.333333333333336,
+            "ranking": 57
+        },
+        {
+            "brawler": "WILLOW",
+            "winrate": 37.5,
+            "ranking": 58
+        },
+        {
+            "brawler": "SQUEAK",
+            "winrate": 36.36363636363637,
+            "ranking": 59
+        },
+        {
+            "brawler": "GALE",
+            "winrate": 35.294117647058826,
+            "ranking": 60
+        },
+        {
+            "brawler": "MORTIS",
+            "winrate": 34.48275862068966,
+            "ranking": 61
+        },
+        {
+            "brawler": "MAX",
+            "winrate": 33.33333333333333,
+            "ranking": 62
+        },
+        {
+            "brawler": "SAM",
+            "winrate": 33.33333333333333,
+            "ranking": 63
+        },
+        {
+            "brawler": "CORDELIUS",
+            "winrate": 33.33333333333333,
+            "ranking": 64
+        },
+        {
+            "brawler": "CHARLIE",
+            "winrate": 33.33333333333333,
+            "ranking": 65
+        },
+        {
+            "brawler": "EMZ",
+            "winrate": 32.6530612244898,
+            "ranking": 66
+        },
+        {
+            "brawler": "POCO",
+            "winrate": 30.0,
+            "ranking": 67
+        },
+        {
+            "brawler": "LOLA",
+            "winrate": 27.27272727272727,
+            "ranking": 68
+        },
+        {
+            "brawler": "GRIFF",
+            "winrate": 25.0,
+            "ranking": 69
+        },
+        {
+            "brawler": "PENNY",
+            "winrate": 25.0,
+            "ranking": 70
+        },
+        {
+            "brawler": "OTIS",
+            "winrate": 20.0,
+            "ranking": 71
+        },
+        {
+            "brawler": "BARLEY",
+            "winrate": 19.047619047619047,
+            "ranking": 72
+        },
+        {
+            "brawler": "DARRYL",
+            "winrate": 0.0,
+            "ranking": 73
+        },
+        {
+            "brawler": "DOUG",
+            "winrate": 0.0,
+            "ranking": 74
+        }
+    ],
+    "Pinball Dreams": [
+        {
+            "brawler": "ASH",
+            "winrate": 100.0,
+            "ranking": 1
+        },
+        {
+            "brawler": "R-T",
+            "winrate": 100.0,
+            "ranking": 2
+        },
+        {
+            "brawler": "8-BIT",
+            "winrate": 100.0,
+            "ranking": 3
+        },
+        {
+            "brawler": "SAM",
+            "winrate": 100.0,
+            "ranking": 4
+        },
+        {
+            "brawler": "BARLEY",
+            "winrate": 88.88888888888889,
+            "ranking": 5
+        },
+        {
+            "brawler": "MICO",
+            "winrate": 77.77777777777779,
+            "ranking": 6
+        },
+        {
+            "brawler": "ROSA",
+            "winrate": 70.0,
+            "ranking": 7
+        },
+        {
+            "brawler": "TARA",
+            "winrate": 68.75,
+            "ranking": 8
+        },
+        {
+            "brawler": "ANGELO",
+            "winrate": 66.66666666666666,
+            "ranking": 9
+        },
+        {
+            "brawler": "TICK",
+            "winrate": 65.38461538461539,
+            "ranking": 10
+        },
+        {
+            "brawler": "EMZ",
+            "winrate": 63.06306306306306,
+            "ranking": 11
+        },
+        {
+            "brawler": "SURGE",
+            "winrate": 61.80555555555556,
+            "ranking": 12
+        },
+        {
+            "brawler": "PEARL",
+            "winrate": 60.0,
+            "ranking": 13
+        },
+        {
+            "brawler": "BYRON",
+            "winrate": 60.0,
+            "ranking": 14
+        },
+        {
+            "brawler": "KIT",
+            "winrate": 60.0,
+            "ranking": 15
+        },
+        {
+            "brawler": "JACKY",
+            "winrate": 58.88888888888889,
+            "ranking": 16
+        },
+        {
+            "brawler": "LILY",
+            "winrate": 58.333333333333336,
+            "ranking": 17
+        },
+        {
+            "brawler": "MEG",
+            "winrate": 58.06451612903226,
+            "ranking": 18
+        },
+        {
+            "brawler": "POCO",
+            "winrate": 58.06451612903226,
+            "ranking": 19
+        },
+        {
+            "brawler": "CHESTER",
+            "winrate": 57.77777777777777,
+            "ranking": 20
+        },
+        {
+            "brawler": "NITA",
+            "winrate": 56.38297872340425,
+            "ranking": 21
+        },
+        {
+            "brawler": "GRIFF",
+            "winrate": 56.14035087719298,
+            "ranking": 22
+        },
+        {
+            "brawler": "GALE",
+            "winrate": 55.55555555555556,
+            "ranking": 23
+        },
+        {
+            "brawler": "SANDY",
+            "winrate": 53.84615384615385,
+            "ranking": 24
+        },
+        {
+            "brawler": "SHELLY",
+            "winrate": 53.16455696202531,
+            "ranking": 25
+        },
+        {
+            "brawler": "LEON",
+            "winrate": 52.77777777777778,
+            "ranking": 26
+        },
+        {
+            "brawler": "SPIKE",
+            "winrate": 52.56410256410257,
+            "ranking": 27
+        },
+        {
+            "brawler": "BIBI",
+            "winrate": 52.41379310344828,
+            "ranking": 28
+        },
+        {
+            "brawler": "MORTIS",
+            "winrate": 51.85185185185185,
+            "ranking": 29
+        },
+        {
+            "brawler": "CORDELIUS",
+            "winrate": 51.78571428571429,
+            "ranking": 30
+        },
+        {
+            "brawler": "FANG",
+            "winrate": 51.13636363636363,
+            "ranking": 31
+        },
+        {
+            "brawler": "DYNAMIKE",
+            "winrate": 51.11111111111111,
+            "ranking": 32
+        },
+        {
+            "brawler": "FRANK",
+            "winrate": 50.0,
+            "ranking": 33
+        },
+        {
+            "brawler": "MR. P",
+            "winrate": 50.0,
+            "ranking": 34
+        },
+        {
+            "brawler": "BULL",
+            "winrate": 50.0,
+            "ranking": 35
+        },
+        {
+            "brawler": "RUFFS",
+            "winrate": 50.0,
+            "ranking": 36
+        },
+        {
+            "brawler": "MAISIE",
+            "winrate": 50.0,
+            "ranking": 37
+        },
+        {
+            "brawler": "PIPER",
+            "winrate": 50.0,
+            "ranking": 38
+        },
+        {
+            "brawler": "DOUG",
+            "winrate": 50.0,
+            "ranking": 39
+        },
+        {
+            "brawler": "RICO",
+            "winrate": 48.46938775510204,
+            "ranking": 40
+        },
+        {
+            "brawler": "EL PRIMO",
+            "winrate": 48.333333333333336,
+            "ranking": 41
+        },
+        {
+            "brawler": "LOU",
+            "winrate": 47.368421052631575,
+            "ranking": 42
+        },
+        {
+            "brawler": "COLETTE",
+            "winrate": 47.05882352941176,
+            "ranking": 43
+        },
+        {
+            "brawler": "BUSTER",
+            "winrate": 47.05882352941176,
+            "ranking": 44
+        },
+        {
+            "brawler": "JESSIE",
+            "winrate": 46.97986577181208,
+            "ranking": 45
+        },
+        {
+            "brawler": "EDGAR",
+            "winrate": 46.93877551020408,
+            "ranking": 46
+        },
+        {
+            "brawler": "DRACO",
+            "winrate": 46.875,
+            "ranking": 47
+        },
+        {
+            "brawler": "MAX",
+            "winrate": 43.07692307692308,
+            "ranking": 48
+        },
+        {
+            "brawler": "BERRY",
+            "winrate": 42.857142857142854,
+            "ranking": 49
+        },
+        {
+            "brawler": "LARRY & LAWRIE",
+            "winrate": 42.30769230769231,
+            "ranking": 50
+        },
+        {
+            "brawler": "AMBER",
+            "winrate": 42.10526315789473,
+            "ranking": 51
+        },
+        {
+            "brawler": "CROW",
+            "winrate": 41.37931034482759,
+            "ranking": 52
+        },
+        {
+            "brawler": "COLT",
+            "winrate": 41.21621621621622,
+            "ranking": 53
+        },
+        {
+            "brawler": "BUZZ",
+            "winrate": 40.28776978417266,
+            "ranking": 54
+        },
+        {
+            "brawler": "CHARLIE",
+            "winrate": 40.0,
+            "ranking": 55
+        },
+        {
+            "brawler": "BO",
+            "winrate": 37.77777777777778,
+            "ranking": 56
+        },
+        {
+            "brawler": "BROCK",
+            "winrate": 37.28813559322034,
+            "ranking": 57
+        },
+        {
+            "brawler": "STU",
+            "winrate": 33.33333333333333,
+            "ranking": 58
+        },
+        {
+            "brawler": "NANI",
+            "winrate": 33.33333333333333,
+            "ranking": 59
+        },
+        {
+            "brawler": "PENNY",
+            "winrate": 33.33333333333333,
+            "ranking": 60
+        },
+        {
+            "brawler": "CARL",
+            "winrate": 33.33333333333333,
+            "ranking": 61
+        },
+        {
+            "brawler": "SQUEAK",
+            "winrate": 28.57142857142857,
+            "ranking": 62
+        },
+        {
+            "brawler": "SPROUT",
+            "winrate": 28.57142857142857,
+            "ranking": 63
+        },
+        {
+            "brawler": "MELODIE",
+            "winrate": 27.27272727272727,
+            "ranking": 64
+        },
+        {
+            "brawler": "DARRYL",
+            "winrate": 21.73913043478261,
+            "ranking": 65
+        },
+        {
+            "brawler": "WILLOW",
+            "winrate": 20.0,
+            "ranking": 66
+        },
+        {
+            "brawler": "BELLE",
+            "winrate": 20.0,
+            "ranking": 67
+        },
+        {
+            "brawler": "OTIS",
+            "winrate": 0.0,
+            "ranking": 68
+        },
+        {
+            "brawler": "GENE",
+            "winrate": 0.0,
+            "ranking": 69
+        },
+        {
+            "brawler": "HANK",
+            "winrate": 0.0,
+            "ranking": 70
+        },
+        {
+            "brawler": "GRAY",
+            "winrate": 0.0,
+            "ranking": 71
+        },
+        {
+            "brawler": "LOLA",
+            "winrate": 0.0,
+            "ranking": 72
+        },
+        {
+            "brawler": "BEA",
+            "winrate": 0.0,
+            "ranking": 73
+        }
+    ]
+}
