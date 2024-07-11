@@ -3,6 +3,8 @@ import re
 from datetime import datetime
 import glob
 import os
+import argparse
+
 
 # For new brawlers, they are dropped unless included in one of the classes
 # Define brawler classes
@@ -57,7 +59,14 @@ formatted_sniper_names = [
     "Piper",
 ]
 
-formatted_thrower_names = ["Barley", "Dynamike", "Grom", "Larry & Lawrie", "Sprout", "Tick"]
+formatted_thrower_names = [
+    "Barley",
+    "Dynamike",
+    "Grom",
+    "Larry & Lawrie",
+    "Sprout",
+    "Tick",
+]
 
 formatted_assasin_names = [
     "Buzz",
@@ -103,6 +112,18 @@ formatted_support_names = [
 ]
 
 
+def parse_args():
+    parser = argparse.ArgumentParser(
+        description="Generate brawler stats from input file."
+    )
+    parser.add_argument(
+        "input_file",
+        type=str,
+        nargs="?",
+        default=None,
+        help="Path to the input CSV file. If not provided, the most recent file in the raw_data folder will be used.",
+    )
+    return parser.parse_args()
 
 
 def generate_brawler_stats(input_file, output_file):
@@ -220,24 +241,13 @@ def generate_brawler_stats(input_file, output_file):
 
 def main(input_file):
     if not input_file:
-        print("invalid input_file")
+        print("Input file was invalid")
         return
     else:
-        print(input_file)
-    timestamp_pattern = (
-        r"battle_logs_(.*).csv"  # Regular expression to extract the timestamp
-    )
-    match = re.search(timestamp_pattern, input_file)
-
-    if match:
-        timestamp = match.group(1)
-        output_file = f"output/brawler_data2.csv"
-        print(f"Exporting brawler stats to output_file {output_file}")
-    else:
-        print("Timestamp not found in the input file name.")
-        output_file = "output/brawler_data.csv"
-
-    generate_brawler_stats(input_file, output_file)
+        print(f'Input: "{input_file}"')
+        output_file = f"output/brawler_data.csv"
+        print(f'Output: "{output_file}"')
+        generate_brawler_stats(input_file, output_file)
 
 
 def find_most_recent_file(directory):
@@ -248,4 +258,8 @@ def find_most_recent_file(directory):
     return most_recent_file
 
 
-main(find_most_recent_file("raw_data"))
+if __name__ == "__main__":
+    print(f"> Executing {os.path.basename(__file__)}")
+    args = parse_args()
+    input_file = args.input_file or find_most_recent_file("raw_data")
+    main(input_file)

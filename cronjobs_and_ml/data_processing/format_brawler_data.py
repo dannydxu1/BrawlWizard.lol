@@ -1,4 +1,6 @@
 import csv
+import argparse
+import os
 
 # Define brawler categories
 formatted_brawlers = [
@@ -88,6 +90,18 @@ formatted_brawlers = [
 lowercase_brawlers = {brawler.lower(): brawler for brawler in formatted_brawlers}
 
 
+def parse_args():
+    parser = argparse.ArgumentParser(description="Format brawler data JSON file.")
+    parser.add_argument(
+        "input_file",
+        type=str,
+        nargs="?",
+        default="output/brawler_data.csv",
+        help="Path to the input CSV file. Default is 'output/brawler_data.csv'.",
+    )
+    return parser.parse_args()
+
+
 def process_csv(input_file, output_file):
     with open(input_file, "r") as infile, open(output_file, "w", newline="") as outfile:
         reader = csv.DictReader(infile)
@@ -111,7 +125,11 @@ def process_csv(input_file, output_file):
             writer.writerow(row)
 
 
-# Usage
-input_file = "output/brawler_data.csv"
-output_file = "output/brawler_data_formatted.csv"
-process_csv(input_file, output_file)
+if __name__ == "__main__":
+    print(f"> Executing {os.path.basename(__file__)}")
+    args = parse_args()
+    input_file = args.input_file
+    print(f'Input: "{input_file}"')
+    output_file = "output/brawler_data_formatted.csv"
+    print(f'Output: "{output_file}"')
+    process_csv(input_file, output_file)

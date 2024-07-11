@@ -3,12 +3,25 @@ import numpy as np
 import os
 import json
 import glob
-from collections import defaultdict
-from itertools import combinations
+import argparse
 
 
-def get_all_brawlers():
-    df = pd.read_csv("important_data/brawler_data.csv")
+def parse_args():
+    parser = argparse.ArgumentParser(
+        description="Create brawler synergies given match and brawler data."
+    )
+    parser.add_argument(
+        "input_file",
+        type=str,
+        nargs="?",
+        default=None,
+          help="Path to the input match data CSV file. If not provided, the most recent file in the raw_data folder will be used.",
+    )
+    return parser.parse_args()
+
+
+def get_all_brawlers(input_csv_path):
+    df = pd.read_csv(input_csv_path)
     brawlers = list(set(df["brawler_id"].tolist()))
     return brawlers
 
@@ -19,21 +32,13 @@ def create_brawler_winrate_dict(input_csv_path):
     return brawler_winrate_dict
 
 
-def find_most_recent_file(directory):
-    files = glob.glob(os.path.join(directory, "*"))
-    if not files:
-        return None
-    most_recent_file = max(files, key=os.path.getctime)
-    return most_recent_file
-
-def logistic_transform(r, alpha=10, beta=1):
-    return 1 / (1 + np.exp(-alpha * (r - beta)))
-
-def find_all_brawler_pairs_synergy(input_csv_path, alpha=10, beta=1):
-    brawlers = get_all_brawlers()
-    all_brawler_winrates = create_brawler_winrate_dict(
-        "important_data/brawler_data.csv"
-    )
+def find_all_brawler_pairs_synergy(
+    input_match_data_csv,
+    brawler_data_path="output/brawler_data.csv",
+):
+    output_path = "output/brawler_synergy.json"
+    brawlers = get_all_brawlers(brawler_data_path)
+    brawler_winrates = create_brawler_winrate_dict(brawler_data_path)
 
     brawler_pairs = {
         brawler: {
@@ -44,7 +49,7 @@ def find_all_brawler_pairs_synergy(input_csv_path, alpha=10, beta=1):
         for brawler in brawlers
     }
 
-    df = pd.read_csv(input_csv_path)
+    df = pd.read_csv(input_match_data_csv)
     for index, row in df.iterrows():
         winners = [row["winner_1"], row["winner_2"], row["winner_3"]]
         losers = [row["loser_1"], row["loser_2"], row["loser_3"]]
@@ -72,10 +77,12 @@ def find_all_brawler_pairs_synergy(input_csv_path, alpha=10, beta=1):
             total_games = stats["wins"] + stats["losses"]
             winrate = (stats["wins"] / total_games) if total_games > 0 else 0
             brawler_pairs[brawler][inner_brawler]["winrate"] = round(winrate, 4)
-            synergy_score = .50 + winrate - (all_brawler_winrates[brawler]+all_brawler_winrates[inner_brawler])/2
-            brawler_pairs[brawler][inner_brawler]["synergy"] =  round(synergy_score, 4)
-            print(f"{synergy_score:.2f}, {all_brawler_winrates[brawler]:.2f}, {all_brawler_winrates[inner_brawler]:.2f}, {winrate:.2f}")
-
+            synergy_score = (
+                0.50
+                + winrate
+                - (brawler_winrates[brawler] + brawler_winrates[inner_brawler]) / 2
+            )
+            brawler_pairs[brawler][inner_brawler]["synergy"] = round(synergy_score, 4)
 
     sorted_inner_brawler_pairs = {
         brawler: dict(
@@ -90,8 +97,9 @@ def find_all_brawler_pairs_synergy(input_csv_path, alpha=10, beta=1):
         for brawler in sorted(sorted_inner_brawler_pairs.keys())
     }
 
-    with open("brawler_synergy.json", "w") as f:
+    with open(output_path, "w") as f:
         json.dump(sorted_outer_brawler_pairs, f, indent=4)
+    print(f'Output:"{output_path}')
 
 
 def find_brawler_pair_synergy(input_csv_path, brawler_1, brawler_2):
@@ -133,21 +141,23 @@ def find_brawler_pair_synergy(input_csv_path, brawler_1, brawler_2):
         lose_rate = 0
 
     return win_rate
-    # Print the results
-    print(f"{brawler_1} and {brawler_2} were on the same team {same_team_count} times.")
-    print(f"They won together {win_count} times.")
-    print(f"They lost together {loss_count} times.")
-    print(f"Winrate when they were together: {win_rate:.2f}%")
-    print(f"Lose rate when they were together: {lose_rate:.2f}%")
 
 
-def main():
-    most_recent_file = find_most_recent_file("raw_data")
-    if most_recent_file:
-        find_all_brawler_pairs_synergy(most_recent_file)
-    else:
-        print("No files found in the directory.")
+def find_most_recent_file(directory):
+    print("Finding most recent file")
+    files = glob.glob(os.path.join(directory, "*"))
+    if not files:
+        return None
+    most_recent_file = max(files, key=os.path.getctime)
+    return most_recent_file
 
 
 if __name__ == "__main__":
-    main()
+    print(f"> Executing {os.path.basename(__file__)}")
+    args = parse_args()
+    input_file = args.input_file or find_most_recent_file("raw_data")
+    print(f'Input: "{input_file}"')
+    if not input_file:
+        print("Invalid input file")
+    else:
+        find_all_brawler_pairs_synergy(input_file)

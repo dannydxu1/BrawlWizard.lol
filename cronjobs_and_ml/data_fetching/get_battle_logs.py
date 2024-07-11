@@ -6,6 +6,8 @@ import asyncio
 import aiohttp
 from dotenv import load_dotenv
 from datetime import datetime
+import argparse
+
 
 # Load environment variables from .env file
 start_time = time.time()
@@ -68,6 +70,13 @@ class BrawlerStats:
 
     def get_stats(self):
         return self.brawler_winrates, self.brawler_pickrates
+
+
+def parse_args():
+    parser = argparse.ArgumentParser(description="Fetch Brawl Stars battle logs.")
+    parser.add_argument("initial_player_tag", type=str, help="Starting player tag")
+    parser.add_argument("battle_quantity", type=int, help="Maximum number of battles")
+    return parser.parse_args()
 
 
 def get_player_team_index(player_tag, teams):
@@ -218,7 +227,7 @@ async def fetch_battle_log(
                             opposing_team.append("N/A")
                         global count  # Declare that we are using the global variable
                         count += 1
-                        print(count)
+                        # print(count)
                         csv_writer.writerow(
                             [
                                 item.get("event").get("mode"),
@@ -327,8 +336,12 @@ async def main(initial_player_tag, battle_quantity):
     end_time = time.time()
     elapsed_time = end_time - start_time
     print(f"Script executed in {elapsed_time:.2f} seconds")
-    print(f'CSV file saved as "{csv_file_name}"')
+    print(f'Output: "{csv_file_name}"')
 
 
-# Run the main function
-asyncio.run(main("#PLYYP2RRQ", 10))
+if __name__ == "__main__":
+    args = parse_args()
+    print(f"> Executing {os.path.basename(__file__)}")
+    asyncio.run(main(args.initial_player_tag, args.battle_quantity))
+
+
