@@ -36,6 +36,9 @@ cronjobs_and_ml/venv/
 cronjobs_and_ml/__pycache__/
 cronjobs_and_ml/*.log
 cronjobs_and_ml/models/*.pkl
+cronjobs_and_ml/output/*.csv
+cronjobs_and_ml/output/*.json
+cronjobs_and_ml/models/*.pkl
 # Node.js specific
 npm-debug.log*
 yarn-error.log*

@@ -6,6 +6,8 @@ import asyncio
 import aiohttp
 from dotenv import load_dotenv
 from datetime import datetime
+import argparse
+
 
 # Load environment variables from .env file
 start_time = time.time()
@@ -70,6 +72,13 @@ class BrawlerStats:
         return self.brawler_winrates, self.brawler_pickrates
 
 
+def parse_args():
+    parser = argparse.ArgumentParser(description="Fetch Brawl Stars battle logs.")
+    parser.add_argument("initial_player_tag", type=str, help="Starting player tag")
+    parser.add_argument("battle_quantity", type=int, help="Maximum number of battles")
+    return parser.parse_args()
+
+
 def get_player_team_index(player_tag, teams):
     for index, team in enumerate(teams):
         for player in team:
@@ -86,35 +95,61 @@ def create_battle_hash(battle_time, player_tags):
 def valid_battle(battle, event, only_ranked):
     if not battle or not event.get("map") or not event.get("mode"):
         return False
-    
-    valid_maps = {
+
+    bounty_maps = [
+        "Shooting Star",
         "Canal Grande",
         "Hideout",
-        "Shooting Star",
-        "Belle's Rock",
-        "Flaring Phoenix",
-        "Out in the Open",
-        "Center Stage",
-        "Galaxy Arena",
-        "Penalty Kick",
-        "Pinball Dreams",
-        "Retina",
-        "Dueling Beetles",
-        "Parallel Plays",
-        "Hot Potato",
+    ]
+
+    heist_maps = [
         "Kaboom Canyon",
-        "Bridge Too Far",
-        "Pit Stop",
+        "Hot Potato",
         "Safe Zone",
-        "Split",
-        "Double Swoosh",
+    ]
+
+    hotzone_maps = [
+        "Dueling Beetles",
+        "Open Business",
+        "Parallel Plays",
+    ]
+
+    brawlball_maps = [
+        "Center Stage",
+        "Pinball Dreams",
+        "Penalty Kick",
+    ]
+
+    gemgrab_maps = [
         "Hard Rock Mine",
+        "Double Swoosh",
         "Undermine",
-    }
-    if battle.get("mode") not in ["gemGrab", "knockout", "heist", "hotZone", "bounty", "brawlBall"] or event.get("map") not in valid_maps or "5V5" in event.get("mode"):  
+    ]
+    knockout_maps = [
+        "Belle's Rock",
+        "Out in the Open",
+        "Flaring Phoenix",
+    ]
+    valid_maps = list(
+        set(
+            bounty_maps
+            + heist_maps
+            + hotzone_maps
+            + brawlball_maps
+            + gemgrab_maps
+            + knockout_maps
+        )
+    )
+
+    if (
+        battle.get("mode")
+        not in ["gemGrab", "knockout", "heist", "hotZone", "bounty", "brawlBall"]
+        or event.get("map") not in valid_maps
+        or "5V5" in event.get("mode")
+    ):
         return False
 
-    if only_ranked and battle and battle.get('type') != "soloRanked":
+    if only_ranked and battle and battle.get("type") != "soloRanked":
         return False
 
     return True
@@ -192,7 +227,7 @@ async def fetch_battle_log(
                             opposing_team.append("N/A")
                         global count  # Declare that we are using the global variable
                         count += 1
-                        print(count)
+                        # print(count)
                         csv_writer.writerow(
                             [
                                 item.get("event").get("mode"),
@@ -218,14 +253,19 @@ async def fetch_battle_log(
 count = 0
 failures = 0
 
+
 def format_number(value):
     if value >= 1_000_000:
-        return f"{value / 1_000_000:.1f}M" if value % 1_000_000 != 0 else f"{value // 1_000_000}M"
+        return (
+            f"{value / 1_000_000:.1f}M"
+            if value % 1_000_000 != 0
+            else f"{value // 1_000_000}M"
+        )
     elif value >= 1_000:
         return f"{value / 1_000:.1f}K" if value % 1_000 != 0 else f"{value // 1_000}K"
     else:
         return str(value)
-    
+
 
 async def main(initial_player_tag, battle_quantity):
     battle_tracker = BattleLogTracker()
@@ -296,8 +336,12 @@ async def main(initial_player_tag, battle_quantity):
     end_time = time.time()
     elapsed_time = end_time - start_time
     print(f"Script executed in {elapsed_time:.2f} seconds")
-    print(f'CSV file saved as "{csv_file_name}"')
+    print(f'Output: "{csv_file_name}"')
 
 
-# Run the main function
-asyncio.run(main("#PLYYP2RRQ", 10))
+if __name__ == "__main__":
+    args = parse_args()
+    print(f"> Executing {os.path.basename(__file__)}")
+    asyncio.run(main(args.initial_player_tag, args.battle_quantity))
+
+
