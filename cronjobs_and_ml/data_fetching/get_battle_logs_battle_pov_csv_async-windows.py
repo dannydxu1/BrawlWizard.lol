@@ -237,7 +237,7 @@ async def main(initial_player_tag, battle_quantity):
 
     date_time_str = datetime.now().strftime("%m-%d-%Y_%I:%M_%p").lower()
     csv_file_name = (
-        f"battle_logs.csv"
+        f"battle_logs2.csv"
     )
     # Open CSV file for writing
     with open(csv_file_name, "w", newline="") as csvfile:
@@ -300,4 +300,4 @@ async def main(initial_player_tag, battle_quantity):
 
 
 # Run the main function
-asyncio.run(main("#8LYC8LQC", 10))
+asyncio.run(main("#8LYC8LQC", 5000000))
