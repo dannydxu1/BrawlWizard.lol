@@ -159,10 +159,10 @@ def recommend_brawlers(
 
 
 # Example usage of the recommendation function
-battle_mode = "knockout"
-map_name = "Flaring Phoenix"
+battle_mode = "heist"
+map_name = "Safe Zone"
 winner_1 = ""
-winner_2 = "PIPER"
+winner_2 = ""
 winner_3 = ""
 loser_1 = ""
 loser_2 = ""

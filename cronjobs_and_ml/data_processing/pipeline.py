@@ -42,7 +42,7 @@ def main(num_battles=1000, player_tag="#PLYYP2RRQ"):
             # Run format_brawler_data.py
             relative_path = "data_processing/" + "format_brawler_data.py"
             result = run_subprocess(relative_path, brawler_data_file)
-
+    
             match = re.search(r'Output: "(.*?)"', result.stdout)
             if match:
                 formatted_brawler_data_file = match.group(1)
